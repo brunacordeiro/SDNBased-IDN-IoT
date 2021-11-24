@@ -17,6 +17,7 @@
 package com.github.sdnwiselab.sdnwise.controller;
 
 import com.github.sdnwiselab.sdnwise.adapter.Adapter;
+//import com.github.sdnwiselab.sdnwise.application.ApplicationAirPure;
 import com.github.sdnwiselab.sdnwise.flowtable.FlowTableEntry;
 import com.github.sdnwiselab.sdnwise.function.FunctionInterface;
 import com.github.sdnwiselab.sdnwise.packet.ConfigAcceptedIdPacket;
@@ -27,6 +28,7 @@ import com.github.sdnwiselab.sdnwise.packet.ConfigRulePacket;
 import static com.github.sdnwiselab.sdnwise.packet.ConfigRulePacket.SDN_WISE_CNF_GET_RULE_INDEX;
 import com.github.sdnwiselab.sdnwise.packet.ConfigSecurityPacket;
 import com.github.sdnwiselab.sdnwise.packet.ConfigTimerPacket;
+//import com.github.sdnwiselab.sdnwise.packet.DataPacket;
 import com.github.sdnwiselab.sdnwise.packet.NetworkPacket;
 import static com.github.sdnwiselab.sdnwise.packet.NetworkPacket.*;
 import com.github.sdnwiselab.sdnwise.packet.OpenPathPacket;
@@ -62,7 +64,7 @@ import net.jodah.expiringmap.ExpiringMap;
  * @author Sebastiano Milardo
  * @version 0.1
  */
-public abstract class Controller implements Observer, Runnable, ControllerInterface {
+public abstract class Controller extends Observable implements Observer, Runnable, ControllerInterface {
 
     final static int SDN_WISE_RLS_MAX = 16;
     final static int RESPONSE_TIMEOUT = 250;
@@ -79,8 +81,8 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
             .expiration(5, TimeUnit.SECONDS)
             .build();
 
-
     private final NodeAddress sinkAddress;
+    //private final ApplicationAirPure appAirPure;
 
     public NodeAddress getSinkAddress() {
         return sinkAddress;
@@ -90,7 +92,7 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * Constructor Method for the Controller Class.
      *
      * @param id ControllerId object.
-     * @param lower Lower Adpater object.
+     * @param lower Lower Adapter object.
      * @param networkGraph NetworkGraph object.
      */
     Controller(Adapter lower, NetworkGraph networkGraph) {
@@ -101,6 +103,7 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
         scanner = new Scanner(System.in, "UTF-8");
         isStopped = false;
         sinkAddress = new NodeAddress("0.1");
+        //appAirPure = new ApplicationAirPure();
     }
 
     public void managePacket(NetworkPacket data) {
@@ -108,45 +111,46 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
         switch (data.getType()) {
             case SDN_WISE_REPORT:
                 networkGraph.updateMap(new ReportPacket(data));
-                break;
             case SDN_WISE_DATA:
             case SDN_WISE_BEACON:
             case SDN_WISE_RESPONSE:
             case SDN_WISE_OPEN_PATH:
+                setChanged();
+                notifyObservers(data);
                 break;
             case SDN_WISE_CONFIG:
 
                 ConfigPacket cp = new ConfigPacket(data);
 
-                if ((cp.getConfigId() == ConfigNodePacket.SDN_WISE_CNF_ID_ADDR)
-                        || (cp.getConfigId() == ConfigNodePacket.SDN_WISE_CNF_ID_NET_ID)
-                        || (cp.getConfigId() == ConfigNodePacket.SDN_WISE_CNF_RESET)
-                        || (cp.getConfigId() == ConfigNodePacket.SDN_WISE_CNF_ID_TTL_MAX)
-                        || (cp.getConfigId() == ConfigNodePacket.SDN_WISE_CNF_ID_RSSI_MIN)) {
+                if ((cp.getConfigId() == ConfigNodePacket.SDN_WISE_CNF_ID_ADDR) //SDN_WISE_CNF_ID_ADDR = 0
+                        || (cp.getConfigId() == ConfigNodePacket.SDN_WISE_CNF_ID_NET_ID) //SDN_WISE_CNF_ID_NET_ID = 1
+                        || (cp.getConfigId() == ConfigNodePacket.SDN_WISE_CNF_RESET) //SDN_WISE_CNF_RESET = 15
+                        || (cp.getConfigId() == ConfigNodePacket.SDN_WISE_CNF_ID_TTL_MAX) //SDN_WISE_CNF_ID_TTL_MAX = 6
+                        || (cp.getConfigId() == ConfigNodePacket.SDN_WISE_CNF_ID_RSSI_MIN)) {               //SDN_WISE_CNF_ID_RSSI_MIN = 7
                     cp = new ConfigNodePacket(data);
-                } else if ((cp.getConfigId() == ConfigTimerPacket.SDN_WISE_CNF_ID_CNT_BEACON_MAX)
-                        || (cp.getConfigId() == ConfigTimerPacket.SDN_WISE_CNF_ID_CNT_REPORT_MAX)
-                        || (cp.getConfigId() == ConfigTimerPacket.SDN_WISE_CNF_ID_CNT_UPDTABLE_MAX)
-                        || (cp.getConfigId() == ConfigTimerPacket.SDN_WISE_CNF_ID_CNT_SLEEP_MAX)) {
+                } else if ((cp.getConfigId() == ConfigTimerPacket.SDN_WISE_CNF_ID_CNT_BEACON_MAX) //SDN_WISE_CNF_ID_CNT_BEACON_MAX = 2
+                        || (cp.getConfigId() == ConfigTimerPacket.SDN_WISE_CNF_ID_CNT_REPORT_MAX) //SDN_WISE_CNF_ID_CNT_REPORT_MAX = 3
+                        || (cp.getConfigId() == ConfigTimerPacket.SDN_WISE_CNF_ID_CNT_UPDTABLE_MAX) //SDN_WISE_CNF_ID_CNT_UPDTABLE_MAX = 4
+                        || (cp.getConfigId() == ConfigTimerPacket.SDN_WISE_CNF_ID_CNT_SLEEP_MAX)) {         //SDN_WISE_CNF_ID_CNT_SLEEP_MAX = 5
                     cp = new ConfigTimerPacket(data);
-                } else if ((cp.getConfigId() == ConfigAcceptedIdPacket.SDN_WISE_CNF_ADD_ACCEPTED)
-                        || (cp.getConfigId() == ConfigAcceptedIdPacket.SDN_WISE_CNF_LIST_ACCEPTED)
-                        || (cp.getConfigId() == ConfigAcceptedIdPacket.SDN_WISE_CNF_REMOVE_ACCEPTED)) {
+                } else if ((cp.getConfigId() == ConfigAcceptedIdPacket.SDN_WISE_CNF_ADD_ACCEPTED) //SDN_WISE_CNF_ADD_ACCEPTED = 8
+                        || (cp.getConfigId() == ConfigAcceptedIdPacket.SDN_WISE_CNF_LIST_ACCEPTED) //SDN_WISE_CNF_LIST_ACCEPTED = 10
+                        || (cp.getConfigId() == ConfigAcceptedIdPacket.SDN_WISE_CNF_REMOVE_ACCEPTED)) {     //SDN_WISE_CNF_REMOVE_ACCEPTED = 9
                     cp = new ConfigAcceptedIdPacket(data);
-                } else if ((cp.getConfigId() == ConfigRulePacket.SDN_WISE_CNF_ADD_RULE)
-                        || (cp.getConfigId() == ConfigRulePacket.SDN_WISE_CNF_GET_RULE_INDEX)
-                        || (cp.getConfigId() == ConfigRulePacket.SDN_WISE_CNF_REMOVE_RULE)
-                        || (cp.getConfigId() == ConfigRulePacket.SDN_WISE_CNF_REMOVE_RULE_INDEX)) {
+                } else if ((cp.getConfigId() == ConfigRulePacket.SDN_WISE_CNF_ADD_RULE) //SDN_WISE_CNF_ADD_RULE = 11
+                        || (cp.getConfigId() == ConfigRulePacket.SDN_WISE_CNF_GET_RULE_INDEX) //SDN_WISE_CNF_GET_RULE_INDEX = 14
+                        || (cp.getConfigId() == ConfigRulePacket.SDN_WISE_CNF_REMOVE_RULE) //SDN_WISE_CNF_REMOVE_RULE = 12
+                        || (cp.getConfigId() == ConfigRulePacket.SDN_WISE_CNF_REMOVE_RULE_INDEX)) {         //SDN_WISE_CNF_REMOVE_RULE_INDEX = 13
                     cp = new ConfigRulePacket(data);
-                } else if ((cp.getConfigId() == ConfigFunctionPacket.SDN_WISE_CNF_ADD_FUNCTION)
-                        || (cp.getConfigId() == ConfigFunctionPacket.SDN_WISE_CNF_REMOVE_FUNCTION)) {
+                } else if ((cp.getConfigId() == ConfigFunctionPacket.SDN_WISE_CNF_ADD_FUNCTION) // SDN_WISE_CNF_ADD_FUNCTION = 16
+                        || (cp.getConfigId() == ConfigFunctionPacket.SDN_WISE_CNF_REMOVE_FUNCTION)) {       // SDN_WISE_CNF_REMOVE_FUNCTION = 17
                     cp = new ConfigFunctionPacket(data);
                 } else {
                     cp = new ConfigSecurityPacket(data);
                 }
 
                 String key;
-                if (cp.getPayloadAt(0) == (SDN_WISE_CNF_GET_RULE_INDEX)) {
+                if (cp.getPayloadAt(0) == (SDN_WISE_CNF_GET_RULE_INDEX)) {      //SDN_WISE_CNF_GET_RULE_INDEX = 14
                     key = cp.getNetId() + " "
                             + cp.getSrc() + " "
                             + cp.getPayloadAt(0) + " "
@@ -178,14 +182,15 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param arg Object sent by Observable.
      */
     @Override
-    public void update(Observable o, Object arg) {
-        if (o.equals(lower)) {
+    public void update(Observable o, Object arg) {              //atualização do adaptador ou da representação da rede
+        if (o.equals(lower)) {                                  // adaptador
             try {
-                bQ.put(new NetworkPacket((byte[]) arg));
+                bQ.put(new NetworkPacket((byte[]) arg));        //msg recebida inserida em um ArrayBlockingQueue<NetworkPacket> bQ;
+
             } catch (InterruptedException ex) {
                 log(Level.SEVERE, ex.getMessage());
             }
-        } else if (o.equals(networkGraph)) {
+        } else if (o.equals(networkGraph)) {                     //representação da rede
             graphUpdate();
         }
     }
@@ -196,7 +201,7 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      */
     @Override
     public void run() {
-        if (lower.open()) {
+        if (lower.open()) {                                 //lower - adaptador
             Thread th = new Thread(new Worker(bQ));
             th.start();
             lower.addObserver(this);
@@ -222,11 +227,9 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param path the list of all the NodeAddresses in the path.
      */
     @Override
-    public final void sendPath(byte netId, NodeAddress destination,
-            List<NodeAddress> path) {
+    public final void sendPath(byte netId, NodeAddress destination, List<NodeAddress> path) {
         OpenPathPacket op = new OpenPathPacket(netId, sinkAddress, destination);
-        op.setPath(path)
-                .setNxhop(sinkAddress);
+        op.setPath(path).setNxhop(sinkAddress);
         sendNetworkPacket(op);
     }
 
@@ -245,14 +248,14 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
         sendNetworkPacket(cp);
 
         try {
-            Thread.sleep(RESPONSE_TIMEOUT);
+            Thread.sleep(RESPONSE_TIMEOUT);     //RESPONSE_TIMEOUT = 250
         } catch (InterruptedException ex) {
             log(Level.SEVERE, ex.getMessage());
         }
 
         String key;
 
-        if (cp.getPayloadAt(0) == (SDN_WISE_CNF_GET_RULE_INDEX)) {
+        if (cp.getPayloadAt(0) == (SDN_WISE_CNF_GET_RULE_INDEX)) {  //  SDN_WISE_CNF_GET_RULE_INDEX = 14;
             key = cp.getNetId() + " "
                     + cp.getDst() + " "
                     + cp.getPayloadAt(0) + " "
@@ -280,11 +283,10 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param newAddress the new address.
      */
     @Override
-    public final void setNodeAddress(byte netId, NodeAddress destination,
-            NodeAddress newAddress) {
+    public final void setNodeAddress(byte netId, NodeAddress destination, NodeAddress newAddress) {
+
         ConfigNodePacket cp = new ConfigNodePacket(netId, sinkAddress, destination);
-        cp.setNodeAddressValue(newAddress)
-                .setNxhop(sinkAddress);
+        cp.setNodeAddressValue(newAddress).setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -295,12 +297,12 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param destination network address of the destination node
      * @return returns the NodeAddress of a node, null if it does exists.
      */
-    public final NodeAddress getNodeAddress(byte netId,
-            NodeAddress destination) {
+    public final NodeAddress getNodeAddress(byte netId, NodeAddress destination) {
+
         ConfigNodePacket cp = new ConfigNodePacket(netId, sinkAddress, destination);
-        cp.setReadNodeAddressValue()
-                .setNxhop(sinkAddress);
+        cp.setReadNodeAddressValue().setNxhop(sinkAddress);
         ConfigPacket response;
+
         try {
             response = sendQuery(cp);
         } catch (TimeoutException ex) {
@@ -319,9 +321,9 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      */
     @Override
     public final void resetNode(byte netId, NodeAddress destination) {
+
         ConfigNodePacket cp = new ConfigNodePacket(netId, sinkAddress, destination);
-        cp.setResetValue()
-                .setNxhop(sinkAddress);
+        cp.setResetValue().setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -334,11 +336,10 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param newNetId value of the new net ID
      */
     @Override
-    public final void setNodeNetId(byte netId, NodeAddress destination,
-            byte newNetId) {
+    public final void setNodeNetId(byte netId, NodeAddress destination, byte newNetId) {
+
         ConfigNodePacket cp = new ConfigNodePacket(netId, sinkAddress, destination);
-        cp.setNetworkIdValue(newNetId)
-                .setNxhop(sinkAddress);
+        cp.setNetworkIdValue(newNetId).setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -351,9 +352,9 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      */
     public final int getNodeNetId(byte netId, NodeAddress destination) {
         ConfigNodePacket cp = new ConfigNodePacket(netId, sinkAddress, destination);
-        cp.setReadNetworkIdValue()
-                .setNxhop(sinkAddress);
+        cp.setReadNetworkIdValue().setNxhop(sinkAddress);
         ConfigPacket response;
+
         try {
             response = sendQuery(cp);
         } catch (TimeoutException ex) {
@@ -372,11 +373,10 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param period beacon period in seconds
      */
     @Override
-    public final void setNodeBeaconPeriod(byte netId, NodeAddress destination,
-            short period) {
+    public final void setNodeBeaconPeriod(byte netId, NodeAddress destination, short period) {
+
         ConfigTimerPacket cp = new ConfigTimerPacket(netId, sinkAddress, destination);
-        cp.setBeaconPeriodValue(period)
-                .setNxhop(sinkAddress);
+        cp.setBeaconPeriodValue(period).setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -389,10 +389,11 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      */
     @Override
     public final int getNodeBeaconPeriod(byte netId, NodeAddress destination) {
+
         ConfigTimerPacket cp = new ConfigTimerPacket(netId, sinkAddress, destination);
-        cp.setReadBeaconPeriodValue()
-                .setNxhop(sinkAddress);
+        cp.setReadBeaconPeriodValue().setNxhop(sinkAddress);
         ConfigPacket response;
+
         try {
             response = sendQuery(cp);
         } catch (TimeoutException ex) {
@@ -412,11 +413,10 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param period report period in seconds
      */
     @Override
-    public final void setNodeReportPeriod(byte netId, NodeAddress destination,
-            short period) {
+    public final void setNodeReportPeriod(byte netId, NodeAddress destination, short period) {
+
         ConfigTimerPacket cp = new ConfigTimerPacket(netId, sinkAddress, destination);
-        cp.setReportPeriodValue(period)
-                .setNxhop(sinkAddress);
+        cp.setReportPeriodValue(period).setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -429,10 +429,11 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      */
     @Override
     public final int getNodeReportPeriod(byte netId, NodeAddress destination) {
+
         ConfigTimerPacket cp = new ConfigTimerPacket(netId, sinkAddress, destination);
-        cp.setReadReportPeriodValue()
-                .setNxhop(sinkAddress);
+        cp.setReadReportPeriodValue().setNxhop(sinkAddress);
         ConfigPacket response;
+
         try {
             response = sendQuery(cp);
         } catch (TimeoutException ex) {
@@ -451,11 +452,10 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param period update table period in seconds (TODO check)
      */
     @Override
-    public final void setNodeUpdateTablePeriod(byte netId,
-            NodeAddress destination, short period) {
+    public final void setNodeUpdateTablePeriod(byte netId, NodeAddress destination, short period) {
+
         ConfigTimerPacket cp = new ConfigTimerPacket(netId, sinkAddress, destination);
-        cp.setUpdateTablePeriodValue(period)
-                .setNxhop(sinkAddress);
+        cp.setUpdateTablePeriodValue(period).setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -467,12 +467,12 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @return returns the updateTablePeriod, -1 if not found.
      */
     @Override
-    public final int getNodeUpdateTablePeriod(byte netId,
-            NodeAddress destination) {
+    public final int getNodeUpdateTablePeriod(byte netId, NodeAddress destination) {
+
         ConfigTimerPacket cp = new ConfigTimerPacket(netId, sinkAddress, destination);
-        cp.setReadUpdateTablePeriodValue()
-                .setNxhop(sinkAddress);
+        cp.setReadUpdateTablePeriodValue().setNxhop(sinkAddress);
         ConfigPacket response;
+
         try {
             response = sendQuery(cp);
         } catch (TimeoutException ex) {
@@ -491,11 +491,10 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param newTtl time to live in number of hops.
      */
     @Override
-    public final void setNodeTtlMax(byte netId, NodeAddress destination,
-            byte newTtl) {
+    public final void setNodeTtlMax(byte netId, NodeAddress destination, byte newTtl) {
+
         ConfigNodePacket cp = new ConfigNodePacket(netId, sinkAddress, destination);
-        cp.setDefaultTtlMaxValue(newTtl)
-                .setNxhop(sinkAddress);
+        cp.setDefaultTtlMaxValue(newTtl).setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -509,10 +508,11 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      */
     @Override
     public final int getNodeTtlMax(byte netId, NodeAddress destination) {
+
         ConfigNodePacket cp = new ConfigNodePacket(netId, sinkAddress, destination);
-        cp.setReadDefaultTtlMaxValue()
-                .setNxhop(sinkAddress);
+        cp.setReadDefaultTtlMaxValue().setNxhop(sinkAddress);
         ConfigPacket response;
+
         try {
             response = sendQuery(cp);
         } catch (TimeoutException ex) {
@@ -531,11 +531,10 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param newRssi new threshold rssi value.
      */
     @Override
-    public final void setNodeRssiMin(byte netId, NodeAddress destination,
-            byte newRssi) {
+    public final void setNodeRssiMin(byte netId, NodeAddress destination, byte newRssi) {
+
         ConfigNodePacket cp = new ConfigNodePacket(netId, sinkAddress, destination);
-        cp.setDefaultRssiMinValue(newRssi)
-                .setNxhop(sinkAddress);
+        cp.setDefaultRssiMinValue(newRssi).setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -549,10 +548,11 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      */
     @Override
     public final int getNodeRssiMin(byte netId, NodeAddress destination) {
+
         ConfigNodePacket cp = new ConfigNodePacket(netId, sinkAddress, destination);
-        cp.setReadDefaultRssiMinValue()
-                .setNxhop(sinkAddress);
+        cp.setReadDefaultRssiMinValue().setNxhop(sinkAddress);
         ConfigPacket response;
+
         try {
             response = sendQuery(cp);
         } catch (TimeoutException ex) {
@@ -571,11 +571,10 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param newAddr the address.
      */
     @Override
-    public final void addAcceptedAddress(byte netId, NodeAddress destination,
-            NodeAddress newAddr) {
+    public final void addAcceptedAddress(byte netId, NodeAddress destination, NodeAddress newAddr) {
+
         ConfigAcceptedIdPacket cp = new ConfigAcceptedIdPacket(netId, sinkAddress, destination);
-        cp.setAddAcceptedAddressValue(newAddr)
-                .setNxhop(sinkAddress);
+        cp.setAddAcceptedAddressValue(newAddr).setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -588,11 +587,10 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param newAddr the address.
      */
     @Override
-    public final void removeAcceptedAddress(byte netId, NodeAddress destination,
-            NodeAddress newAddr) {
+    public final void removeAcceptedAddress(byte netId, NodeAddress destination, NodeAddress newAddr) {
+
         ConfigAcceptedIdPacket cp = new ConfigAcceptedIdPacket(netId, sinkAddress, destination);
-        cp.setRemoveAcceptedAddressValue(newAddr)
-                .setNxhop(sinkAddress);
+        cp.setRemoveAcceptedAddressValue(newAddr).setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -604,12 +602,12 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @return returns the list of accepted Addresses.
      */
     @Override
-    public final List<NodeAddress> getAcceptedAddressesList(byte netId,
-            NodeAddress destination) {
+    public final List<NodeAddress> getAcceptedAddressesList(byte netId, NodeAddress destination) {
+
         ConfigAcceptedIdPacket cp = new ConfigAcceptedIdPacket(netId, sinkAddress, destination);
-        cp.setReadAcceptedAddressesValue()
-                .setNxhop(sinkAddress);
+        cp.setReadAcceptedAddressesValue().setNxhop(sinkAddress);
         ConfigPacket response;
+
         try {
             response = sendQuery(cp);
         } catch (TimeoutException ex) {
@@ -627,8 +625,7 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param rule the rule to be installed.
      */
     @Override
-    public final void addRule(byte netId, NodeAddress destination,
-            FlowTableEntry rule) {
+    public final void addRule(byte netId, NodeAddress destination, FlowTableEntry rule) {
         /*
          ConfigPacket cp = new ConfigPacket();
          cp.setAddRuleValue(rule)
@@ -640,8 +637,7 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
          */
 
         ResponsePacket rp = new ResponsePacket(netId, sinkAddress, destination);
-        rp.setRule(rule)
-                .setNxhop(sinkAddress);
+        rp.setRule(rule).setNxhop(sinkAddress);
         sendNetworkPacket(rp);
     }
 
@@ -653,11 +649,10 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param index index of the erased row.
      */
     @Override
-    public final void removeRule(byte netId,
-            NodeAddress destination, int index) {
+    public final void removeRule(byte netId, NodeAddress destination, int index) {
+
         ConfigRulePacket cp = new ConfigRulePacket(netId, sinkAddress, destination);
-        cp.setRemoveRuleAtPositionValue(index)
-                .setNxhop(sinkAddress);
+        cp.setRemoveRuleAtPositionValue(index).setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -669,11 +664,10 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @param rule the rule to be removed.
      */
     @Override
-    public final void removeRule(byte netId, NodeAddress destination,
-            FlowTableEntry rule) {
+    public final void removeRule(byte netId, NodeAddress destination, FlowTableEntry rule) {
+
         ConfigRulePacket cp = new ConfigRulePacket(netId, sinkAddress, destination);
-        cp.setRemoveRuleValue(rule)
-                .setNxhop(sinkAddress);
+        cp.setRemoveRuleValue(rule).setNxhop(sinkAddress);
         sendNetworkPacket(cp);
     }
 
@@ -685,9 +679,9 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @return returns the list of the entries in the WISE Flow Table.
      */
     @Override
-    public final List<FlowTableEntry> getRules(byte netId,
-            NodeAddress destination) {
-        List<FlowTableEntry> list = new ArrayList<>(SDN_WISE_RLS_MAX);
+    public final List<FlowTableEntry> getRules(byte netId, NodeAddress destination) {
+
+        List<FlowTableEntry> list = new ArrayList<>(SDN_WISE_RLS_MAX);      //SDN_WISE_RLS_MAX = 16
         for (int i = 0; i < SDN_WISE_RLS_MAX; i++) {
             list.add(i, getRuleAtPosition(netId, destination, i));
         }
@@ -703,12 +697,12 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
      * @return returns the list of the entries in the WISE Flow Table.
      */
     @Override
-    public final FlowTableEntry getRuleAtPosition(byte netId,
-            NodeAddress destination, int index) {
+    public final FlowTableEntry getRuleAtPosition(byte netId, NodeAddress destination, int index) {
+
         ConfigRulePacket cp = new ConfigRulePacket(netId, sinkAddress, destination);
-        cp.setReadRuleAtPositionValue(index)
-                .setNxhop(sinkAddress);
+        cp.setReadRuleAtPositionValue(index).setNxhop(sinkAddress);
         ConfigPacket response;
+
         try {
             response = sendQuery(cp);
         } catch (TimeoutException ex) {
@@ -732,6 +726,7 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
             NodeAddress nextHop,
             byte id,
             byte[] buf) {
+
         ConfigFunctionPacket np = new ConfigFunctionPacket(netId, src, dest);
         LinkedList<NetworkPacket> ll = new LinkedList<>();
 
@@ -792,15 +787,14 @@ public abstract class Controller implements Observer, Runnable, ControllerInterf
             byte netId,
             NodeAddress dest,
             byte id,
-            String className
-    ) {
+            String className) {
+
         try {
             URL main = FunctionInterface.class.getResource(className);
             File path = new File(main.getPath());
             byte[] buf = Files.readAllBytes(path.toPath());
 
-            List<NetworkPacket> ll = createPackets(
-                    netId, sinkAddress, dest, sinkAddress, id, buf);
+            List<NetworkPacket> ll = createPackets(netId, sinkAddress, dest, sinkAddress, id, buf);
 
             Iterator<NetworkPacket> llIterator = ll.iterator();
 
