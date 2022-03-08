@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     
-    <name>ControllerSDIDN</name>
+    <name>ControllerSDIDN-Old-Bug</name>
     <description>The stateful Software Defined Networking solution for WIreless SEnsor Networks</description>
     <url>http://sdn-wise.dieei.unict.it</url>   
     <inceptionYear>2014</inceptionYear>

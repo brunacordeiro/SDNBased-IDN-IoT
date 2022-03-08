@@ -1,0 +1,2266 @@
+00:00.000	ID:1	C-TX RegProxyPacket - mahdX Batt: 97 Mote: 0.1
+00:00.000	ID:1	
+00:20.066	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+00:20.066	ID:1	
+00:29.117	ID:1	C-TX ReportPacket - 
+00:29.117	ID:1	 Batt: 248 Mote: 0.4
+00:29.117	ID:1	
+00:29.120	ID:1	C-TX ReportPacket - 
+00:29.120	ID:1	 Batt: 248 Mote: 0.11
+00:29.120	ID:1	
+00:29.131	ID:1	C-TX ReportPacket - 
+00:29.131	ID:1	 Batt: 248 Mote: 0.5
+00:29.131	ID:1	
+00:29.136	ID:1	C-TX ReportPacket -  Batt: 248 Mote: 0.8
+00:29.136	ID:1	
+00:29.145	ID:1	C-TX ReportPacket - 	 Batt: 248 Mote: 0.3
+00:29.145	ID:1	
+00:29.150	ID:1	C-TX ReportPacket -  Batt: 248 Mote: 0.7
+00:29.150	ID:1	
+00:38.150	ID:1	C-TX ReportPacket - 
+00:38.150	ID:1	 Batt: 248 Mote: 0.6
+00:38.150	ID:1	
+00:38.175	ID:1	C-TX ReportPacket -  Batt: 248 Mote: 0.10
+00:38.175	ID:1	
+00:38.195	ID:1	C-TX ReportPacket - 	 Batt: 248 Mote: 0.2
+00:38.195	ID:1	
+00:40.147	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+00:40.147	ID:1	
+00:49.203	ID:1	C-TX ReportPacket - 
+00:49.203	ID:1	 Batt: 241 Mote: 0.4
+00:49.203	ID:1	
+00:49.214	ID:1	C-TX ReportPacket - 
+00:49.214	ID:1	 Batt: 241 Mote: 0.11
+00:49.214	ID:1	
+00:49.225	ID:1	C-TX ReportPacket -  Batt: 241 Mote: 0.8
+00:49.225	ID:1	
+00:49.236	ID:1	C-TX ReportPacket - 	 Batt: 241 Mote: 0.3
+00:49.236	ID:1	
+00:49.251	ID:1	C-TX ReportPacket -  Batt: 241 Mote: 0.7
+00:49.251	ID:1	
+00:57.229	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+00:57.229	ID:1	
+00:57.229	ID:1	C-TX DataPacket - Qualidade do Ar, polling, 0, 0, 0, 1 Batt: 117 Mote: 0.1
+00:57.229	ID:1	
+00:58.228	ID:1	C-TX ReportPacket - 
+00:58.228	ID:1	 Batt: 241 Mote: 0.6
+00:58.228	ID:1	
+00:58.272	ID:1	C-TX ReportPacket -  Batt: 241 Mote: 0.10
+00:58.272	ID:1	
+00:58.298	ID:1	C-TX ReportPacket - 	 Batt: 241 Mote: 0.2
+00:58.298	ID:1	
+00:59.242	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+00:59.242	ID:1	
+00:59.255	ID:1	C-TX DataPacket - Qualidade do Ar, polling, 0, 0, 0, 1 Batt: 117 Mote: 0.1
+00:59.255	ID:1	
+00:59.258	ID:1	C-RX NetworkPacket - 
+00:59.258	ID:1	
+00:59.258	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+00:59.258	ID:1	
+00:59.295	ID:1	C-TX ReportPacket -  Batt: 241 Mote: 0.9
+00:59.295	ID:1	
+01:00.253	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+01:00.253	ID:1	
+01:01.239	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:01.239	ID:1	
+01:01.239	ID:1	C-TX DataPacket - Qualidade do Ar, polling, 0, 0, 0, 1 Batt: 117 Mote: 0.1
+01:01.239	ID:1	
+01:01.244	ID:1	C-RX NetworkPacket - 
+01:01.244	ID:1	
+01:01.244	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:01.244	ID:1	
+01:03.218	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:03.218	ID:1	
+01:03.227	ID:1	C-RX NetworkPacket - 
+01:03.227	ID:1	
+01:03.227	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:03.227	ID:1	
+01:03.230	ID:1	C-TX DataPacket - Qualidade do Ar, polling, 0, 0, 0, 1 Batt: 117 Mote: 0.1
+01:03.230	ID:1	
+01:05.207	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:05.207	ID:1	
+01:05.207	ID:1	C-TX DataPacket - Qualidade do Ar, polling, 0, 0, 0, 1 Batt: 117 Mote: 0.1
+01:05.207	ID:1	
+01:07.219	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:07.219	ID:1	
+01:07.219	ID:1	C-RX NetworkPacket - 
+01:07.219	ID:1	
+01:07.219	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:07.219	ID:1	
+01:07.232	ID:1	C-TX DataPacket - Qualidade do Ar, polling, 0, 0, 0, 1 Batt: 117 Mote: 0.1
+01:07.232	ID:1	
+01:09.229	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:09.229	ID:1	
+01:09.248	ID:1	C-TX DataPacket - Qualidade do Ar, polling, 0, 0, 0, 1 Batt: 117 Mote: 0.1
+01:09.248	ID:1	
+01:09.248	ID:1	C-RX NetworkPacket - 
+01:09.248	ID:1	
+01:09.248	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:09.248	ID:1	
+01:09.299	ID:1	C-TX ReportPacket - 
+01:09.299	ID:1	 Batt: 234 Mote: 0.11
+01:09.299	ID:1	
+01:09.302	ID:1	C-TX ReportPacket - 
+01:09.302	ID:1	 Batt: 234 Mote: 0.5
+01:09.302	ID:1	
+01:09.309	ID:1	C-TX ReportPacket -  Batt: 234 Mote: 0.8
+01:09.309	ID:1	
+01:09.312	ID:1	C-TX ReportPacket - 	 Batt: 234 Mote: 0.3
+01:09.312	ID:1	
+01:09.317	ID:1	C-TX ReportPacket - 
+01:09.317	ID:1	 Batt: 234 Mote: 0.4
+01:09.317	ID:1	
+01:09.350	ID:1	C-TX ReportPacket -  Batt: 234 Mote: 0.7
+01:09.350	ID:1	
+01:11.231	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:11.231	ID:1	
+01:11.231	ID:1	C-TX DataPacket - Qualidade do Ar, polling, 0, 0, 0, 1 Batt: 117 Mote: 0.1
+01:11.231	ID:1	
+01:11.235	ID:1	C-RX NetworkPacket - 
+01:11.235	ID:1	
+01:11.235	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:11.235	ID:1	
+01:13.236	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:13.236	ID:1	
+01:13.236	ID:1	C-TX DataPacket - Qualidade do Ar, polling, 0, 0, 0, 1 Batt: 117 Mote: 0.1
+01:13.236	ID:1	
+01:13.236	ID:1	C-RX NetworkPacket - 	
+01:13.236	ID:1	
+01:13.236	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:13.236	ID:1	
+01:15.241	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:15.241	ID:1	
+01:15.241	ID:1	C-TX DataPacket - Qualidade do Ar, polling, 0, 0, 0, 1 Batt: 117 Mote: 0.1
+01:15.241	ID:1	
+01:15.241	ID:1	C-RX NetworkPacket - 
+01:15.241	ID:1	
+01:15.241	ID:1	
+01:15.241	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:15.241	ID:1	
+01:17.244	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:17.244	ID:1	
+01:17.244	ID:1	C-TX DataPacket - Qualidade do Ar, polling, 0, 0, 0, 1 Batt: 117 Mote: 0.1
+01:17.244	ID:1	
+01:17.250	ID:1	C-RX NetworkPacket - 
+01:17.250	ID:1	
+01:17.250	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 1
+01:17.250	ID:1	
+01:18.314	ID:1	C-TX ReportPacket - 
+01:18.314	ID:1	 Batt: 234 Mote: 0.6
+01:18.314	ID:1	
+01:18.351	ID:1	C-TX ReportPacket -  Batt: 234 Mote: 0.10
+01:18.351	ID:1	
+01:18.389	ID:1	C-TX ReportPacket - 	 Batt: 234 Mote: 0.2
+01:18.389	ID:1	
+01:19.251	ID:1	C-RX NetworkPacket - Temperatura, periodic, 2, 0, 0, 0
+01:19.251	ID:1	
+01:19.255	ID:1	C-TX DataPacket - Notificacao, Evento Cadastrado com Sucesso!, 0 Batt: 111 Mote: 0.2
+01:19.255	ID:1	
+01:19.354	ID:1	C-RX NetworkPacket - Temperatura, periodic, 2, 0, 0, 1
+01:19.354	ID:1	
+01:19.395	ID:1	C-TX ReportPacket -  Batt: 234 Mote: 0.9
+01:19.395	ID:1	
+01:19.462	ID:1	C-RX NetworkPacket - Temperatura, periodic, 2, 0, 0, 2
+01:19.462	ID:1	
+01:19.464	ID:1	C-TX DataPacket - Notificacao, Evento Cadastrado com Sucesso!, 2 Batt: 111 Mote: 0.4
+01:19.464	ID:1	
+01:19.571	ID:1	C-RX NetworkPacket - Temperatura, periodic, 2, 0, 0, 3
+01:19.571	ID:1	
+01:19.571	ID:1	C-TX DataPacket - Temperatura, periodic, 2, 0, 0, 3 Batt: 101 Mote: 0.1
+01:19.571	ID:1	
+01:19.573	ID:1	C-RX NetworkPacket - 
+01:19.573	ID:1	
+01:19.573	ID:1	C-RX NetworkPacket - Temperatura, periodic, 2, 0, 0, 3
+01:19.573	ID:1	
+01:19.577	ID:1	C-TX DataPacket - Notificacao, Evento Cadastrado com Sucesso!, 3 Batt: 111 Mote: 0.5
+01:19.577	ID:1	
+01:19.683	ID:1	C-RX NetworkPacket - Temperatura, periodic, 2, 0, 0, 4
+01:19.683	ID:1	
+01:19.687	ID:1	C-TX DataPacket - Notificacao, Evento Cadastrado com Sucesso!, 4 Batt: 111 Mote: 0.6
+01:19.687	ID:1	
+01:19.795	ID:1	C-RX NetworkPacket - Temperatura, periodic, 2, 0, 0, 5
+01:19.795	ID:1	
+01:19.797	ID:1	C-TX DataPacket - Notificacao, Evento Cadastrado com Sucesso!, 5 Batt: 111 Mote: 0.7
+01:19.797	ID:1	
+01:19.904	ID:1	C-RX NetworkPacket - Temperatura, periodic, 2, 0, 0, 6
+01:19.904	ID:1	
+01:19.906	ID:1	C-TX DataPacket - Notificacao, Evento Cadastrado com Sucesso!, 6 Batt: 111 Mote: 0.8
+01:19.906	ID:1	
+01:20.015	ID:1	C-RX NetworkPacket - Temperatura, periodic, 2, 0, 0, 7
+01:20.015	ID:1	
+01:20.019	ID:1	C-TX DataPacket - Notificacao, Evento Cadastrado com Sucesso!, 7 Batt: 111 Mote: 0.9
+01:20.019	ID:1	
+01:20.126	ID:1	C-RX NetworkPacket - Temperatura, periodic, 2, 0, 0, 8
+01:20.126	ID:1	
+01:20.130	ID:1	C-TX DataPacket - Notificacao, Evento Cadastrado com Sucesso!, 8 Batt: 111 Mote: 0.10
+01:20.130	ID:1	
+01:20.237	ID:1	C-RX NetworkPacket - Temperatura, periodic, 2, 0, 0, 9
+01:20.237	ID:1	
+01:20.239	ID:1	C-TX DataPacket - Notificacao, Evento Cadastrado com Sucesso!, 9 Batt: 111 Mote: 0.11
+01:20.239	ID:1	
+01:20.324	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+01:20.324	ID:1	
+01:20.397	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:27;0.2, 0 Batt: 69 Mote: 0.2
+01:20.397	ID:1	
+01:21.325	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:28;0.6, 4 Batt: 69 Mote: 0.6
+01:21.325	ID:1	
+01:21.343	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:28;0.11, 9 Batt: 69 Mote: 0.11
+01:21.343	ID:1	
+01:21.349	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:28;0.8, 6 Batt: 69 Mote: 0.8
+01:21.349	ID:1	
+01:21.355	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:28;0.5, 3 Batt: 69 Mote: 0.5
+01:21.355	ID:1	
+01:21.362	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:28;0.10, 8 Batt: 69 Mote: 0.10
+01:21.362	ID:1	
+01:21.365	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:28;0.3, 1 Batt: 69 Mote: 0.3
+01:21.365	ID:1	
+01:21.367	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:28;0.4, 2 Batt: 69 Mote: 0.4
+01:21.367	ID:1	
+01:22.406	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:29;0.2, 0 Batt: 69 Mote: 0.2
+01:22.406	ID:1	
+01:23.330	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:30;0.6, 4 Batt: 69 Mote: 0.6
+01:23.330	ID:1	
+01:23.350	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:30;0.11, 9 Batt: 69 Mote: 0.11
+01:23.350	ID:1	
+01:23.358	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:30;0.8, 6 Batt: 69 Mote: 0.8
+01:23.358	ID:1	
+01:23.365	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:30;0.10, 8 Batt: 69 Mote: 0.10
+01:23.365	ID:1	
+01:23.370	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:30;0.4, 2 Batt: 69 Mote: 0.4
+01:23.370	ID:1	
+01:23.372	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:30;0.5, 3 Batt: 69 Mote: 0.5
+01:23.372	ID:1	
+01:23.374	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:30;0.3, 1 Batt: 69 Mote: 0.3
+01:23.374	ID:1	
+01:23.409	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:30;0.7, 5 Batt: 69 Mote: 0.7
+01:23.409	ID:1	
+01:23.413	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:30;0.9, 7 Batt: 69 Mote: 0.9
+01:23.413	ID:1	
+01:24.417	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:31;0.2, 0 Batt: 69 Mote: 0.2
+01:24.417	ID:1	
+01:25.342	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:32;0.6, 4 Batt: 69 Mote: 0.6
+01:25.342	ID:1	
+01:25.362	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:32;0.11, 9 Batt: 69 Mote: 0.11
+01:25.362	ID:1	
+01:25.366	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:32;0.8, 6 Batt: 69 Mote: 0.8
+01:25.366	ID:1	
+01:25.371	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:32;0.10, 8 Batt: 69 Mote: 0.10
+01:25.371	ID:1	
+01:25.378	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:32;0.3, 1 Batt: 69 Mote: 0.3
+01:25.378	ID:1	
+01:25.380	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:32;0.4, 2 Batt: 69 Mote: 0.4
+01:25.380	ID:1	
+01:25.382	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:32;0.5, 3 Batt: 69 Mote: 0.5
+01:25.382	ID:1	
+01:25.420	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:32;0.7, 5 Batt: 69 Mote: 0.7
+01:25.420	ID:1	
+01:25.425	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:32;0.9, 7 Batt: 69 Mote: 0.9
+01:25.425	ID:1	
+01:26.426	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:33;0.2, 0 Batt: 69 Mote: 0.2
+01:26.426	ID:1	
+01:27.358	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:34;0.6, 4 Batt: 69 Mote: 0.6
+01:27.358	ID:1	
+01:27.370	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:34;0.11, 9 Batt: 69 Mote: 0.11
+01:27.370	ID:1	
+01:27.383	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:34;0.3, 1 Batt: 69 Mote: 0.3
+01:27.383	ID:1	
+01:27.390	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:34;0.4, 2 Batt: 69 Mote: 0.4
+01:27.390	ID:1	
+01:27.395	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:34;0.5, 3 Batt: 69 Mote: 0.5
+01:27.395	ID:1	
+01:27.432	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:34;0.7, 5 Batt: 69 Mote: 0.7
+01:27.432	ID:1	
+01:27.437	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:34;0.9, 7 Batt: 69 Mote: 0.9
+01:27.437	ID:1	
+01:28.439	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:35;0.2, 0 Batt: 69 Mote: 0.2
+01:28.439	ID:1	
+01:29.366	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:36;0.6, 4 Batt: 69 Mote: 0.6
+01:29.366	ID:1	
+01:29.381	ID:1	C-TX ReportPacket - 
+01:29.381	ID:1	 Batt: 227 Mote: 0.11
+01:29.381	ID:1	
+01:29.382	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:36;0.11, 9 Batt: 69 Mote: 0.11
+01:29.382	ID:1	
+01:29.387	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:36;0.10, 8 Batt: 69 Mote: 0.10
+01:29.387	ID:1	
+01:29.396	ID:1	C-TX ReportPacket -  Batt: 227 Mote: 0.8
+01:29.396	ID:1	
+01:29.397	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:36;0.8, 6 Batt: 69 Mote: 0.8
+01:29.397	ID:1	
+01:29.405	ID:1	C-TX ReportPacket - 
+01:29.405	ID:1	 Batt: 227 Mote: 0.5
+01:29.405	ID:1	
+01:29.406	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:36;0.5, 3 Batt: 69 Mote: 0.5
+01:29.406	ID:1	
+01:29.446	ID:1	C-TX ReportPacket -  Batt: 227 Mote: 0.7
+01:29.446	ID:1	
+01:30.448	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:37;0.2, 0 Batt: 69 Mote: 0.2
+01:30.448	ID:1	
+01:31.374	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:38;0.6, 4 Batt: 69 Mote: 0.6
+01:31.374	ID:1	
+01:31.394	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:38;0.4, 2 Batt: 69 Mote: 0.4
+01:31.394	ID:1	
+01:31.397	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:38;0.10, 8 Batt: 69 Mote: 0.10
+01:31.397	ID:1	
+01:31.399	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:38;0.8, 6 Batt: 69 Mote: 0.8
+01:31.399	ID:1	
+01:31.417	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:38;0.5, 3 Batt: 69 Mote: 0.5
+01:31.417	ID:1	
+01:31.452	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:38;0.7, 5 Batt: 69 Mote: 0.7
+01:31.452	ID:1	
+01:31.457	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:38;0.9, 7 Batt: 69 Mote: 0.9
+01:31.457	ID:1	
+01:32.451	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:39;0.2, 0 Batt: 69 Mote: 0.2
+01:32.451	ID:1	
+01:33.383	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:40;0.6, 4 Batt: 69 Mote: 0.6
+01:33.383	ID:1	
+01:33.396	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:40;0.3, 1 Batt: 69 Mote: 0.3
+01:33.396	ID:1	
+01:33.398	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:40;0.4, 2 Batt: 69 Mote: 0.4
+01:33.398	ID:1	
+01:33.408	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:40;0.8, 6 Batt: 69 Mote: 0.8
+01:33.408	ID:1	
+01:33.423	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:40;0.5, 3 Batt: 69 Mote: 0.5
+01:33.423	ID:1	
+01:33.463	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:40;0.7, 5 Batt: 69 Mote: 0.7
+01:33.463	ID:1	
+01:33.467	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:40;0.9, 7 Batt: 69 Mote: 0.9
+01:33.467	ID:1	
+01:34.467	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:41;0.2, 0 Batt: 69 Mote: 0.2
+01:34.467	ID:1	
+01:35.388	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:42;0.6, 4 Batt: 69 Mote: 0.6
+01:35.388	ID:1	
+01:35.402	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:42;0.4, 2 Batt: 69 Mote: 0.4
+01:35.402	ID:1	
+01:35.406	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:42;0.3, 1 Batt: 69 Mote: 0.3
+01:35.406	ID:1	
+01:35.412	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:42;0.10, 8 Batt: 69 Mote: 0.10
+01:35.412	ID:1	
+01:35.419	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:42;0.11, 9 Batt: 69 Mote: 0.11
+01:35.419	ID:1	
+01:35.421	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:42;0.8, 6 Batt: 69 Mote: 0.8
+01:35.421	ID:1	
+01:35.431	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:42;0.5, 3 Batt: 69 Mote: 0.5
+01:35.431	ID:1	
+01:36.474	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:43;0.2, 0 Batt: 69 Mote: 0.2
+01:36.474	ID:1	
+01:37.394	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:44;0.6, 4 Batt: 69 Mote: 0.6
+01:37.394	ID:1	
+01:37.408	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:44;0.4, 2 Batt: 69 Mote: 0.4
+01:37.408	ID:1	
+01:37.417	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:44;0.10, 8 Batt: 69 Mote: 0.10
+01:37.417	ID:1	
+01:37.432	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:44;0.8, 6 Batt: 69 Mote: 0.8
+01:37.432	ID:1	
+01:37.434	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:44;0.5, 3 Batt: 69 Mote: 0.5
+01:37.434	ID:1	
+01:37.475	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:44;0.7, 5 Batt: 69 Mote: 0.7
+01:37.475	ID:1	
+01:37.484	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:44;0.9, 7 Batt: 69 Mote: 0.9
+01:37.484	ID:1	
+01:38.400	ID:1	C-TX ReportPacket - 
+01:38.400	ID:1	 Batt: 227 Mote: 0.6
+01:38.400	ID:1	
+01:38.421	ID:1	C-TX ReportPacket -  Batt: 227 Mote: 0.10
+01:38.421	ID:1	
+01:38.477	ID:1	C-TX ReportPacket - 	 Batt: 227 Mote: 0.2
+01:38.477	ID:1	
+01:38.479	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:45;0.2, 0 Batt: 69 Mote: 0.2
+01:38.479	ID:1	
+01:39.400	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:46;0.6, 4 Batt: 69 Mote: 0.6
+01:39.400	ID:1	
+01:39.421	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:46;0.4, 2 Batt: 69 Mote: 0.4
+01:39.421	ID:1	
+01:39.423	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:46;0.10, 8 Batt: 69 Mote: 0.10
+01:39.423	ID:1	
+01:39.434	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:46;0.3, 1 Batt: 69 Mote: 0.3
+01:39.434	ID:1	
+01:39.439	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:46;0.8, 6 Batt: 69 Mote: 0.8
+01:39.439	ID:1	
+01:39.443	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:46;0.11, 9 Batt: 69 Mote: 0.11
+01:39.443	ID:1	
+01:39.447	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:46;0.5, 3 Batt: 69 Mote: 0.5
+01:39.447	ID:1	
+01:39.484	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:46;0.7, 5 Batt: 69 Mote: 0.7
+01:39.484	ID:1	
+01:39.499	ID:1	C-TX ReportPacket -  Batt: 227 Mote: 0.9
+01:39.499	ID:1	
+01:39.501	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:46;0.9, 7 Batt: 69 Mote: 0.9
+01:39.501	ID:1	
+01:40.416	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+01:40.416	ID:1	
+01:40.490	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:47;0.2, 0 Batt: 69 Mote: 0.2
+01:40.490	ID:1	
+01:41.409	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:48;0.6, 4 Batt: 69 Mote: 0.6
+01:41.409	ID:1	
+01:41.429	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:48;0.10, 8 Batt: 69 Mote: 0.10
+01:41.429	ID:1	
+01:41.431	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:48;0.4, 2 Batt: 69 Mote: 0.4
+01:41.431	ID:1	
+01:41.441	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:48;0.3, 1 Batt: 69 Mote: 0.3
+01:41.441	ID:1	
+01:41.447	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:48;0.8, 6 Batt: 69 Mote: 0.8
+01:41.447	ID:1	
+01:41.453	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:48;0.11, 9 Batt: 69 Mote: 0.11
+01:41.453	ID:1	
+01:41.457	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:48;0.5, 3 Batt: 69 Mote: 0.5
+01:41.457	ID:1	
+01:41.495	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:48;0.7, 5 Batt: 69 Mote: 0.7
+01:41.495	ID:1	
+01:41.503	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:48;0.9, 7 Batt: 69 Mote: 0.9
+01:41.503	ID:1	
+01:42.505	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:49;0.2, 0 Batt: 69 Mote: 0.2
+01:42.505	ID:1	
+01:43.412	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:50;0.6, 4 Batt: 69 Mote: 0.6
+01:43.412	ID:1	
+01:43.437	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:50;0.10, 8 Batt: 69 Mote: 0.10
+01:43.437	ID:1	
+01:43.443	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:50;0.4, 2 Batt: 69 Mote: 0.4
+01:43.443	ID:1	
+01:43.451	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:50;0.3, 1 Batt: 69 Mote: 0.3
+01:43.451	ID:1	
+01:43.458	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:50;0.11, 9 Batt: 69 Mote: 0.11
+01:43.458	ID:1	
+01:43.464	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:50;0.8, 6 Batt: 69 Mote: 0.8
+01:43.464	ID:1	
+01:43.468	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:50;0.5, 3 Batt: 69 Mote: 0.5
+01:43.468	ID:1	
+01:43.500	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:50;0.7, 5 Batt: 69 Mote: 0.7
+01:43.500	ID:1	
+01:43.510	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:50;0.9, 7 Batt: 69 Mote: 0.9
+01:43.510	ID:1	
+01:44.516	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:51;0.2, 0 Batt: 69 Mote: 0.2
+01:44.516	ID:1	
+01:45.417	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:52;0.6, 4 Batt: 69 Mote: 0.6
+01:45.417	ID:1	
+01:45.445	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:52;0.4, 2 Batt: 69 Mote: 0.4
+01:45.445	ID:1	
+01:45.453	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:52;0.10, 8 Batt: 69 Mote: 0.10
+01:45.453	ID:1	
+01:45.462	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:52;0.3, 1 Batt: 69 Mote: 0.3
+01:45.462	ID:1	
+01:45.468	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:52;0.11, 9 Batt: 69 Mote: 0.11
+01:45.468	ID:1	
+01:45.477	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:52;0.8, 6 Batt: 69 Mote: 0.8
+01:45.477	ID:1	
+01:45.484	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:52;0.5, 3 Batt: 69 Mote: 0.5
+01:45.484	ID:1	
+01:45.512	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:52;0.7, 5 Batt: 69 Mote: 0.7
+01:45.512	ID:1	
+01:45.513	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:52;0.9, 7 Batt: 69 Mote: 0.9
+01:45.513	ID:1	
+01:46.524	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:53;0.2, 0 Batt: 69 Mote: 0.2
+01:46.524	ID:1	
+01:47.425	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:54;0.6, 4 Batt: 69 Mote: 0.6
+01:47.425	ID:1	
+01:47.450	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:54;0.4, 2 Batt: 69 Mote: 0.4
+01:47.450	ID:1	
+01:47.464	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:54;0.10, 8 Batt: 69 Mote: 0.10
+01:47.464	ID:1	
+01:47.467	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:54;0.3, 1 Batt: 69 Mote: 0.3
+01:47.467	ID:1	
+01:47.480	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:54;0.11, 9 Batt: 69 Mote: 0.11
+01:47.480	ID:1	
+01:47.484	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:54;0.8, 6 Batt: 69 Mote: 0.8
+01:47.484	ID:1	
+01:47.493	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:54;0.5, 3 Batt: 69 Mote: 0.5
+01:47.493	ID:1	
+01:47.516	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:54;0.9, 7 Batt: 69 Mote: 0.9
+01:47.516	ID:1	
+01:47.520	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:54;0.7, 5 Batt: 69 Mote: 0.7
+01:47.520	ID:1	
+01:48.535	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:55;0.2, 0 Batt: 69 Mote: 0.2
+01:48.535	ID:1	
+01:49.437	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:56;0.6, 4 Batt: 69 Mote: 0.6
+01:49.437	ID:1	
+01:49.457	ID:1	C-TX ReportPacket - 
+01:49.457	ID:1	 Batt: 219 Mote: 0.4
+01:49.457	ID:1	
+01:49.458	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:56;0.4, 2 Batt: 69 Mote: 0.4
+01:49.458	ID:1	
+01:49.474	ID:1	C-TX ReportPacket - 	 Batt: 220 Mote: 0.3
+01:49.474	ID:1	
+01:49.475	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:56;0.3, 1 Batt: 69 Mote: 0.3
+01:49.475	ID:1	
+01:49.479	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:56;0.10, 8 Batt: 69 Mote: 0.10
+01:49.479	ID:1	
+01:49.486	ID:1	C-TX ReportPacket - 
+01:49.486	ID:1	 Batt: 220 Mote: 0.11
+01:49.486	ID:1	
+01:49.487	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:56;0.11, 9 Batt: 69 Mote: 0.11
+01:49.487	ID:1	
+01:49.490	ID:1	C-TX ReportPacket -  Batt: 220 Mote: 0.8
+01:49.490	ID:1	
+01:49.491	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:56;0.8, 6 Batt: 69 Mote: 0.8
+01:49.491	ID:1	
+01:49.506	ID:1	C-TX ReportPacket - 
+01:49.506	ID:1	 Batt: 220 Mote: 0.5
+01:49.506	ID:1	
+01:49.507	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:56;0.5, 3 Batt: 69 Mote: 0.5
+01:49.507	ID:1	
+01:49.526	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:56;0.9, 7 Batt: 69 Mote: 0.9
+01:49.526	ID:1	
+01:49.535	ID:1	C-TX ReportPacket -  Batt: 220 Mote: 0.7
+01:49.535	ID:1	
+01:49.536	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:56;0.7, 5 Batt: 69 Mote: 0.7
+01:49.536	ID:1	
+01:50.535	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:57;0.2, 0 Batt: 69 Mote: 0.2
+01:50.535	ID:1	
+01:51.448	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:58;0.6, 4 Batt: 69 Mote: 0.6
+01:51.448	ID:1	
+01:51.463	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:58;0.4, 2 Batt: 69 Mote: 0.4
+01:51.463	ID:1	
+01:51.474	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:58;0.3, 1 Batt: 69 Mote: 0.3
+01:51.474	ID:1	
+01:51.489	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:58;0.11, 9 Batt: 69 Mote: 0.11
+01:51.489	ID:1	
+01:51.492	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:58;0.10, 8 Batt: 69 Mote: 0.10
+01:51.492	ID:1	
+01:51.497	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:58;0.8, 6 Batt: 69 Mote: 0.8
+01:51.497	ID:1	
+01:51.516	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:58;0.5, 3 Batt: 69 Mote: 0.5
+01:51.516	ID:1	
+01:51.532	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:58;0.9, 7 Batt: 69 Mote: 0.9
+01:51.532	ID:1	
+01:51.547	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:58;0.7, 5 Batt: 69 Mote: 0.7
+01:51.547	ID:1	
+01:52.541	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:09:59;0.2, 0 Batt: 69 Mote: 0.2
+01:52.541	ID:1	
+01:53.455	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:00;0.6, 4 Batt: 69 Mote: 0.6
+01:53.455	ID:1	
+01:53.472	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:00;0.4, 2 Batt: 69 Mote: 0.4
+01:53.472	ID:1	
+01:53.489	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:00;0.3, 1 Batt: 69 Mote: 0.3
+01:53.489	ID:1	
+01:53.495	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:00;0.11, 9 Batt: 69 Mote: 0.11
+01:53.495	ID:1	
+01:53.499	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:00;0.10, 8 Batt: 69 Mote: 0.10
+01:53.499	ID:1	
+01:53.509	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:00;0.8, 6 Batt: 69 Mote: 0.8
+01:53.509	ID:1	
+01:53.526	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:00;0.5, 3 Batt: 69 Mote: 0.5
+01:53.526	ID:1	
+01:53.541	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:00;0.9, 7 Batt: 69 Mote: 0.9
+01:53.541	ID:1	
+01:53.560	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:00;0.7, 5 Batt: 69 Mote: 0.7
+01:53.560	ID:1	
+01:54.546	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:01;0.2, 0 Batt: 69 Mote: 0.2
+01:54.546	ID:1	
+01:55.465	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:02;0.6, 4 Batt: 69 Mote: 0.6
+01:55.465	ID:1	
+01:55.476	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:02;0.4, 2 Batt: 69 Mote: 0.4
+01:55.476	ID:1	
+01:55.498	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:02;0.3, 1 Batt: 69 Mote: 0.3
+01:55.498	ID:1	
+01:55.500	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:02;0.11, 9 Batt: 69 Mote: 0.11
+01:55.500	ID:1	
+01:55.534	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:02;0.5, 3 Batt: 69 Mote: 0.5
+01:55.534	ID:1	
+01:55.553	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:02;0.9, 7 Batt: 69 Mote: 0.9
+01:55.553	ID:1	
+01:55.566	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:02;0.7, 5 Batt: 69 Mote: 0.7
+01:55.566	ID:1	
+01:56.557	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:03;0.2, 0 Batt: 69 Mote: 0.2
+01:56.557	ID:1	
+01:57.470	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:04;0.6, 4 Batt: 69 Mote: 0.6
+01:57.470	ID:1	
+01:57.481	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:04;0.4, 2 Batt: 69 Mote: 0.4
+01:57.481	ID:1	
+01:57.504	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:04;0.3, 1 Batt: 69 Mote: 0.3
+01:57.504	ID:1	
+01:57.511	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:04;0.11, 9 Batt: 69 Mote: 0.11
+01:57.511	ID:1	
+01:57.520	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:04;0.10, 8 Batt: 69 Mote: 0.10
+01:57.520	ID:1	
+01:57.530	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:04;0.8, 6 Batt: 69 Mote: 0.8
+01:57.530	ID:1	
+01:57.542	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:04;0.5, 3 Batt: 69 Mote: 0.5
+01:57.542	ID:1	
+01:57.561	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:04;0.9, 7 Batt: 69 Mote: 0.9
+01:57.561	ID:1	
+01:57.571	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:04;0.7, 5 Batt: 69 Mote: 0.7
+01:57.571	ID:1	
+01:58.477	ID:1	C-TX ReportPacket - 
+01:58.477	ID:1	 Batt: 220 Mote: 0.6
+01:58.477	ID:1	
+01:58.530	ID:1	C-TX ReportPacket -  Batt: 220 Mote: 0.10
+01:58.530	ID:1	
+01:58.562	ID:1	C-TX ReportPacket - 	 Batt: 220 Mote: 0.2
+01:58.562	ID:1	
+01:58.564	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:05;0.2, 0 Batt: 69 Mote: 0.2
+01:58.564	ID:1	
+01:59.476	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:06;0.6, 4 Batt: 69 Mote: 0.6
+01:59.476	ID:1	
+01:59.491	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:06;0.4, 2 Batt: 69 Mote: 0.4
+01:59.491	ID:1	
+01:59.516	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:06;0.3, 1 Batt: 69 Mote: 0.3
+01:59.516	ID:1	
+01:59.523	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:06;0.11, 9 Batt: 69 Mote: 0.11
+01:59.523	ID:1	
+01:59.550	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:06;0.5, 3 Batt: 69 Mote: 0.5
+01:59.550	ID:1	
+01:59.571	ID:1	C-TX ReportPacket -  Batt: 220 Mote: 0.9
+01:59.571	ID:1	
+01:59.573	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:06;0.9, 7 Batt: 69 Mote: 0.9
+01:59.573	ID:1	
+01:59.586	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:06;0.7, 5 Batt: 69 Mote: 0.7
+01:59.586	ID:1	
+02:00.505	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+02:00.505	ID:1	
+02:00.570	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:07;0.2, 0 Batt: 69 Mote: 0.2
+02:00.570	ID:1	
+02:01.489	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:08;0.6, 4 Batt: 69 Mote: 0.6
+02:01.489	ID:1	
+02:01.501	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:08;0.4, 2 Batt: 69 Mote: 0.4
+02:01.501	ID:1	
+02:01.540	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:08;0.10, 8 Batt: 69 Mote: 0.10
+02:01.540	ID:1	
+02:01.547	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:08;0.8, 6 Batt: 69 Mote: 0.8
+02:01.547	ID:1	
+02:01.556	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:08;0.5, 3 Batt: 69 Mote: 0.5
+02:01.556	ID:1	
+02:01.577	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:08;0.9, 7 Batt: 69 Mote: 0.9
+02:01.577	ID:1	
+02:01.589	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:08;0.7, 5 Batt: 69 Mote: 0.7
+02:01.589	ID:1	
+02:02.578	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:09;0.2, 0 Batt: 69 Mote: 0.2
+02:02.578	ID:1	
+02:03.496	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:10;0.6, 4 Batt: 69 Mote: 0.6
+02:03.496	ID:1	
+02:03.512	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:10;0.4, 2 Batt: 69 Mote: 0.4
+02:03.512	ID:1	
+02:03.532	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:10;0.11, 9 Batt: 69 Mote: 0.11
+02:03.532	ID:1	
+02:03.536	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:10;0.3, 1 Batt: 69 Mote: 0.3
+02:03.536	ID:1	
+02:03.561	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:10;0.5, 3 Batt: 69 Mote: 0.5
+02:03.561	ID:1	
+02:03.591	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:10;0.9, 7 Batt: 69 Mote: 0.9
+02:03.591	ID:1	
+02:03.601	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:10;0.7, 5 Batt: 69 Mote: 0.7
+02:03.601	ID:1	
+02:04.585	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:11;0.2, 0 Batt: 69 Mote: 0.2
+02:04.585	ID:1	
+02:05.511	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:12;0.6, 4 Batt: 69 Mote: 0.6
+02:05.511	ID:1	
+02:05.524	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:12;0.4, 2 Batt: 69 Mote: 0.4
+02:05.524	ID:1	
+02:05.540	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:12;0.3, 1 Batt: 69 Mote: 0.3
+02:05.540	ID:1	
+02:05.544	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:12;0.11, 9 Batt: 69 Mote: 0.11
+02:05.544	ID:1	
+02:05.561	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:12;0.10, 8 Batt: 69 Mote: 0.10
+02:05.561	ID:1	
+02:05.564	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:12;0.8, 6 Batt: 69 Mote: 0.8
+02:05.564	ID:1	
+02:05.566	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:12;0.5, 3 Batt: 69 Mote: 0.5
+02:05.566	ID:1	
+02:05.595	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:12;0.9, 7 Batt: 69 Mote: 0.9
+02:05.595	ID:1	
+02:05.611	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:12;0.7, 5 Batt: 69 Mote: 0.7
+02:05.611	ID:1	
+02:06.590	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:13;0.2, 0 Batt: 69 Mote: 0.2
+02:06.590	ID:1	
+02:07.517	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:14;0.6, 4 Batt: 69 Mote: 0.6
+02:07.517	ID:1	
+02:07.541	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:14;0.4, 2 Batt: 69 Mote: 0.4
+02:07.541	ID:1	
+02:07.550	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:14;0.3, 1 Batt: 69 Mote: 0.3
+02:07.550	ID:1	
+02:07.555	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:14;0.11, 9 Batt: 69 Mote: 0.11
+02:07.555	ID:1	
+02:07.567	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:14;0.10, 8 Batt: 69 Mote: 0.10
+02:07.567	ID:1	
+02:07.569	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:14;0.8, 6 Batt: 69 Mote: 0.8
+02:07.569	ID:1	
+02:07.582	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:14;0.5, 3 Batt: 69 Mote: 0.5
+02:07.582	ID:1	
+02:07.596	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:14;0.9, 7 Batt: 69 Mote: 0.9
+02:07.596	ID:1	
+02:07.624	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:14;0.7, 5 Batt: 69 Mote: 0.7
+02:07.624	ID:1	
+02:08.600	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:15;0.2, 0 Batt: 69 Mote: 0.2
+02:08.600	ID:1	
+02:09.525	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:16;0.6, 4 Batt: 69 Mote: 0.6
+02:09.525	ID:1	
+02:09.559	ID:1	C-TX ReportPacket - 
+02:09.559	ID:1	 Batt: 212 Mote: 0.4
+02:09.559	ID:1	
+02:09.560	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:16;0.4, 2 Batt: 69 Mote: 0.4
+02:09.560	ID:1	
+02:09.563	ID:1	C-TX ReportPacket - 	 Batt: 212 Mote: 0.3
+02:09.563	ID:1	
+02:09.564	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:16;0.3, 1 Batt: 69 Mote: 0.3
+02:09.564	ID:1	
+02:09.567	ID:1	C-TX ReportPacket - 
+02:09.567	ID:1	 Batt: 213 Mote: 0.11
+02:09.567	ID:1	
+02:09.568	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:16;0.11, 9 Batt: 69 Mote: 0.11
+02:09.568	ID:1	
+02:09.570	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:16;0.10, 8 Batt: 69 Mote: 0.10
+02:09.570	ID:1	
+02:09.577	ID:1	C-TX ReportPacket -  Batt: 213 Mote: 0.8
+02:09.577	ID:1	
+02:09.578	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:16;0.8, 6 Batt: 69 Mote: 0.8
+02:09.578	ID:1	
+02:09.595	ID:1	C-TX ReportPacket - 
+02:09.595	ID:1	 Batt: 213 Mote: 0.5
+02:09.595	ID:1	
+02:09.596	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:16;0.5, 3 Batt: 69 Mote: 0.5
+02:09.596	ID:1	
+02:09.609	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:16;0.9, 7 Batt: 69 Mote: 0.9
+02:09.609	ID:1	
+02:09.635	ID:1	C-TX ReportPacket -  Batt: 213 Mote: 0.7
+02:09.635	ID:1	
+02:09.636	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:16;0.7, 5 Batt: 69 Mote: 0.7
+02:09.636	ID:1	
+02:10.599	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:17;0.2, 0 Batt: 69 Mote: 0.2
+02:10.599	ID:1	
+02:11.532	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:18;0.6, 4 Batt: 69 Mote: 0.6
+02:11.532	ID:1	
+02:11.573	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:18;0.4, 2 Batt: 69 Mote: 0.4
+02:11.573	ID:1	
+02:11.575	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:18;0.10, 8 Batt: 69 Mote: 0.10
+02:11.575	ID:1	
+02:11.583	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:18;0.8, 6 Batt: 69 Mote: 0.8
+02:11.583	ID:1	
+02:11.602	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:18;0.5, 3 Batt: 69 Mote: 0.5
+02:11.602	ID:1	
+02:11.625	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:18;0.9, 7 Batt: 69 Mote: 0.9
+02:11.625	ID:1	
+02:11.650	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:18;0.7, 5 Batt: 69 Mote: 0.7
+02:11.650	ID:1	
+02:12.609	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:19;0.2, 0 Batt: 69 Mote: 0.2
+02:12.609	ID:1	
+02:13.540	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:20;0.6, 4 Batt: 69 Mote: 0.6
+02:13.540	ID:1	
+02:13.578	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:20;0.3, 1 Batt: 69 Mote: 0.3
+02:13.578	ID:1	
+02:13.583	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:20;0.11, 9 Batt: 69 Mote: 0.11
+02:13.583	ID:1	
+02:13.590	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:20;0.4, 2 Batt: 69 Mote: 0.4
+02:13.590	ID:1	
+02:13.615	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:20;0.5, 3 Batt: 69 Mote: 0.5
+02:13.615	ID:1	
+02:13.635	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:20;0.9, 7 Batt: 69 Mote: 0.9
+02:13.635	ID:1	
+02:13.659	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:20;0.7, 5 Batt: 69 Mote: 0.7
+02:13.659	ID:1	
+02:14.626	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:21;0.2, 0 Batt: 69 Mote: 0.2
+02:14.626	ID:1	
+02:15.548	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:22;0.6, 4 Batt: 69 Mote: 0.6
+02:15.548	ID:1	
+02:15.580	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:22;0.3, 1 Batt: 69 Mote: 0.3
+02:15.580	ID:1	
+02:15.601	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:22;0.11, 9 Batt: 69 Mote: 0.11
+02:15.601	ID:1	
+02:15.604	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:22;0.4, 2 Batt: 69 Mote: 0.4
+02:15.604	ID:1	
+02:15.620	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:22;0.5, 3 Batt: 69 Mote: 0.5
+02:15.620	ID:1	
+02:15.643	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:22;0.9, 7 Batt: 69 Mote: 0.9
+02:15.643	ID:1	
+02:15.663	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:22;0.7, 5 Batt: 69 Mote: 0.7
+02:15.663	ID:1	
+02:16.635	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:23;0.2, 0 Batt: 69 Mote: 0.2
+02:16.635	ID:1	
+02:17.566	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:24;0.6, 4 Batt: 69 Mote: 0.6
+02:17.566	ID:1	
+02:17.583	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:24;0.3, 1 Batt: 69 Mote: 0.3
+02:17.583	ID:1	
+02:17.606	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:24;0.8, 6 Batt: 69 Mote: 0.8
+02:17.606	ID:1	
+02:17.615	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:24;0.4, 2 Batt: 69 Mote: 0.4
+02:17.615	ID:1	
+02:17.627	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:24;0.5, 3 Batt: 69 Mote: 0.5
+02:17.627	ID:1	
+02:17.644	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:24;0.9, 7 Batt: 69 Mote: 0.9
+02:17.644	ID:1	
+02:17.668	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:24;0.7, 5 Batt: 69 Mote: 0.7
+02:17.668	ID:1	
+02:18.569	ID:1	C-TX ReportPacket - 
+02:18.569	ID:1	 Batt: 213 Mote: 0.6
+02:18.569	ID:1	
+02:18.618	ID:1	C-TX ReportPacket -  Batt: 213 Mote: 0.10
+02:18.618	ID:1	
+02:18.648	ID:1	C-TX ReportPacket - 	 Batt: 213 Mote: 0.2
+02:18.648	ID:1	
+02:18.650	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:25;0.2, 0 Batt: 69 Mote: 0.2
+02:18.650	ID:1	
+02:19.141	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 10
+02:19.141	ID:1	
+02:19.145	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 10 Batt: 111 Mote: 0.2
+02:19.145	ID:1	
+02:19.247	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 11
+02:19.247	ID:1	
+02:19.249	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 11 Batt: 111 Mote: 0.3
+02:19.249	ID:1	
+02:19.358	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 12
+02:19.358	ID:1	
+02:19.360	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 12 Batt: 111 Mote: 0.4
+02:19.360	ID:1	
+02:19.471	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 13
+02:19.471	ID:1	
+02:19.473	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 13 Batt: 111 Mote: 0.5
+02:19.473	ID:1	
+02:19.572	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:26;0.6, 4 Batt: 69 Mote: 0.6
+02:19.572	ID:1	
+02:19.583	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 14
+02:19.583	ID:1	
+02:19.587	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 14 Batt: 111 Mote: 0.6
+02:19.587	ID:1	
+02:19.616	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:26;0.8, 6 Batt: 69 Mote: 0.8
+02:19.616	ID:1	
+02:19.625	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:26;0.11, 9 Batt: 69 Mote: 0.11
+02:19.625	ID:1	
+02:19.628	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:26;0.10, 8 Batt: 69 Mote: 0.10
+02:19.628	ID:1	
+02:19.656	ID:1	C-TX ReportPacket -  Batt: 213 Mote: 0.9
+02:19.656	ID:1	
+02:19.658	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:26;0.9, 7 Batt: 69 Mote: 0.9
+02:19.658	ID:1	
+02:19.680	ID:1	C-TX DataPacket - PERIODICO, 2;2000000.0;01:10:26;0.7, 5 Batt: 69 Mote: 0.7
+02:19.680	ID:1	
+02:19.693	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 15
+02:19.693	ID:1	
+02:19.696	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 15 Batt: 111 Mote: 0.7
+02:19.696	ID:1	
+02:19.803	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 16
+02:19.803	ID:1	
+02:19.805	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 16 Batt: 111 Mote: 0.8
+02:19.805	ID:1	
+02:19.915	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 17
+02:19.915	ID:1	
+02:19.919	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 17 Batt: 111 Mote: 0.9
+02:19.919	ID:1	
+02:20.025	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 18
+02:20.025	ID:1	
+02:20.029	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 18 Batt: 111 Mote: 0.10
+02:20.029	ID:1	
+02:20.135	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 19
+02:20.135	ID:1	
+02:20.137	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 19 Batt: 111 Mote: 0.11
+02:20.137	ID:1	
+02:20.588	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+02:20.588	ID:1	
+02:21.151	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 20
+02:21.151	ID:1	
+02:21.155	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:27, 20 Batt: 79 Mote: 0.2
+02:21.155	ID:1	
+02:21.259	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 21
+02:21.259	ID:1	
+02:21.261	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:28, 21 Batt: 79 Mote: 0.3
+02:21.261	ID:1	
+02:21.366	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 22
+02:21.366	ID:1	
+02:21.368	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:28, 22 Batt: 79 Mote: 0.4
+02:21.368	ID:1	
+02:21.481	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 23
+02:21.481	ID:1	
+02:21.483	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:28, 23 Batt: 79 Mote: 0.5
+02:21.483	ID:1	
+02:21.594	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 24
+02:21.594	ID:1	
+02:21.598	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:28, 24 Batt: 79 Mote: 0.6
+02:21.598	ID:1	
+02:21.707	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 25
+02:21.707	ID:1	
+02:21.709	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:28, 25 Batt: 79 Mote: 0.7
+02:21.709	ID:1	
+02:21.815	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 26
+02:21.815	ID:1	
+02:21.817	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:28, 26 Batt: 79 Mote: 0.8
+02:21.817	ID:1	
+02:21.925	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 27
+02:21.925	ID:1	
+02:21.929	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:28, 27 Batt: 79 Mote: 0.9
+02:21.929	ID:1	
+02:22.040	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 28
+02:22.040	ID:1	
+02:22.044	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:28, 28 Batt: 79 Mote: 0.10
+02:22.044	ID:1	
+02:22.150	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 29
+02:22.150	ID:1	
+02:22.152	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:28, 29 Batt: 79 Mote: 0.11
+02:22.152	ID:1	
+02:23.276	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 30
+02:23.276	ID:1	
+02:23.280	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:30, 30 Batt: 79 Mote: 0.2
+02:23.280	ID:1	
+02:23.389	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 31
+02:23.389	ID:1	
+02:23.391	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:30, 31 Batt: 79 Mote: 0.3
+02:23.391	ID:1	
+02:23.480	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 32
+02:23.480	ID:1	
+02:23.482	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:30, 32 Batt: 79 Mote: 0.4
+02:23.482	ID:1	
+02:23.609	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 33
+02:23.609	ID:1	
+02:23.611	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:30, 33 Batt: 79 Mote: 0.5
+02:23.611	ID:1	
+02:23.718	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 34
+02:23.718	ID:1	
+02:23.722	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:30, 34 Batt: 79 Mote: 0.6
+02:23.722	ID:1	
+02:23.829	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 35
+02:23.829	ID:1	
+02:23.832	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:30, 35 Batt: 79 Mote: 0.7
+02:23.832	ID:1	
+02:23.940	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 36
+02:23.940	ID:1	
+02:23.942	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:30, 36 Batt: 79 Mote: 0.8
+02:23.942	ID:1	
+02:24.052	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 37
+02:24.052	ID:1	
+02:24.056	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:30, 37 Batt: 79 Mote: 0.9
+02:24.056	ID:1	
+02:24.162	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 38
+02:24.162	ID:1	
+02:24.166	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:31, 38 Batt: 79 Mote: 0.10
+02:24.166	ID:1	
+02:24.272	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 39
+02:24.272	ID:1	
+02:24.274	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:31, 39 Batt: 79 Mote: 0.11
+02:24.274	ID:1	
+02:25.383	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 40
+02:25.383	ID:1	
+02:25.387	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:32, 40 Batt: 79 Mote: 0.2
+02:25.387	ID:1	
+02:25.495	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 41
+02:25.495	ID:1	
+02:25.497	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:32, 41 Batt: 79 Mote: 0.3
+02:25.497	ID:1	
+02:25.606	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 42
+02:25.606	ID:1	
+02:25.608	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:32, 42 Batt: 79 Mote: 0.4
+02:25.608	ID:1	
+02:25.718	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 43
+02:25.718	ID:1	
+02:25.720	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:32, 43 Batt: 79 Mote: 0.5
+02:25.720	ID:1	
+02:25.830	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 44
+02:25.830	ID:1	
+02:25.834	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:32, 44 Batt: 79 Mote: 0.6
+02:25.834	ID:1	
+02:25.941	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 45
+02:25.941	ID:1	
+02:25.943	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:32, 45 Batt: 79 Mote: 0.7
+02:25.943	ID:1	
+02:26.053	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 46
+02:26.053	ID:1	
+02:26.055	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:32, 46 Batt: 79 Mote: 0.8
+02:26.055	ID:1	
+02:26.161	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 47
+02:26.161	ID:1	
+02:26.165	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:33, 47 Batt: 79 Mote: 0.9
+02:26.165	ID:1	
+02:26.272	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 48
+02:26.272	ID:1	
+02:26.276	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:33, 48 Batt: 79 Mote: 0.10
+02:26.276	ID:1	
+02:26.385	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 49
+02:26.385	ID:1	
+02:26.387	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:33, 49 Batt: 79 Mote: 0.11
+02:26.387	ID:1	
+02:27.498	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 50
+02:27.498	ID:1	
+02:27.502	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:34, 50 Batt: 79 Mote: 0.2
+02:27.502	ID:1	
+02:27.612	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 51
+02:27.612	ID:1	
+02:27.614	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:34, 51 Batt: 79 Mote: 0.3
+02:27.614	ID:1	
+02:27.722	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 52
+02:27.722	ID:1	
+02:27.724	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:34, 52 Batt: 79 Mote: 0.4
+02:27.724	ID:1	
+02:27.833	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 53
+02:27.833	ID:1	
+02:27.835	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:34, 53 Batt: 79 Mote: 0.5
+02:27.835	ID:1	
+02:27.945	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 54
+02:27.945	ID:1	
+02:27.949	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:34, 54 Batt: 79 Mote: 0.6
+02:27.949	ID:1	
+02:28.057	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 55
+02:28.057	ID:1	
+02:28.059	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:34, 55 Batt: 79 Mote: 0.7
+02:28.059	ID:1	
+02:28.165	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 56
+02:28.165	ID:1	
+02:28.167	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:35, 56 Batt: 79 Mote: 0.8
+02:28.167	ID:1	
+02:28.278	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 57
+02:28.278	ID:1	
+02:28.282	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:35, 57 Batt: 79 Mote: 0.9
+02:28.282	ID:1	
+02:28.389	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 58
+02:28.389	ID:1	
+02:28.393	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:35, 58 Batt: 79 Mote: 0.10
+02:28.393	ID:1	
+02:28.499	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 59
+02:28.499	ID:1	
+02:28.501	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:35, 59 Batt: 79 Mote: 0.11
+02:28.501	ID:1	
+02:29.619	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 60
+02:29.619	ID:1	
+02:29.623	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:36, 60 Batt: 79 Mote: 0.2
+02:29.623	ID:1	
+02:29.639	ID:1	C-TX ReportPacket - 	 Batt: 205 Mote: 0.3
+02:29.639	ID:1	
+02:29.655	ID:1	C-TX ReportPacket -  Batt: 206 Mote: 0.8
+02:29.655	ID:1	
+02:29.674	ID:1	C-TX ReportPacket - 
+02:29.674	ID:1	 Batt: 205 Mote: 0.4
+02:29.674	ID:1	
+02:29.687	ID:1	C-TX ReportPacket - 
+02:29.687	ID:1	 Batt: 206 Mote: 0.11
+02:29.687	ID:1	
+02:29.698	ID:1	C-TX ReportPacket - 
+02:29.698	ID:1	 Batt: 206 Mote: 0.5
+02:29.698	ID:1	
+02:29.719	ID:1	C-TX ReportPacket -  Batt: 206 Mote: 0.7
+02:29.719	ID:1	
+02:29.730	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 61
+02:29.730	ID:1	
+02:29.732	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:36, 61 Batt: 79 Mote: 0.3
+02:29.732	ID:1	
+02:29.840	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 62
+02:29.840	ID:1	
+02:29.842	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:36, 62 Batt: 79 Mote: 0.4
+02:29.842	ID:1	
+02:29.949	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 63
+02:29.949	ID:1	
+02:29.951	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:36, 63 Batt: 79 Mote: 0.5
+02:29.951	ID:1	
+02:30.060	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 64
+02:30.060	ID:1	
+02:30.064	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:36, 64 Batt: 79 Mote: 0.6
+02:30.064	ID:1	
+02:30.170	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 65
+02:30.170	ID:1	
+02:30.172	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:37, 65 Batt: 79 Mote: 0.7
+02:30.172	ID:1	
+02:30.282	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 66
+02:30.282	ID:1	
+02:30.284	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:37, 66 Batt: 79 Mote: 0.8
+02:30.284	ID:1	
+02:30.393	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 67
+02:30.393	ID:1	
+02:30.397	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:37, 67 Batt: 79 Mote: 0.9
+02:30.397	ID:1	
+02:30.504	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 68
+02:30.504	ID:1	
+02:30.508	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:37, 68 Batt: 79 Mote: 0.10
+02:30.508	ID:1	
+02:30.614	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 69
+02:30.614	ID:1	
+02:30.619	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:37, 69 Batt: 79 Mote: 0.11
+02:30.619	ID:1	
+02:31.741	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 70
+02:31.741	ID:1	
+02:31.745	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:38, 70 Batt: 79 Mote: 0.2
+02:31.745	ID:1	
+02:31.851	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 71
+02:31.851	ID:1	
+02:31.853	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:38, 71 Batt: 79 Mote: 0.3
+02:31.853	ID:1	
+02:31.963	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 72
+02:31.963	ID:1	
+02:31.965	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:38, 72 Batt: 79 Mote: 0.4
+02:31.965	ID:1	
+02:32.074	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 73
+02:32.074	ID:1	
+02:32.076	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:38, 73 Batt: 79 Mote: 0.5
+02:32.076	ID:1	
+02:32.183	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 74
+02:32.183	ID:1	
+02:32.187	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:39, 74 Batt: 79 Mote: 0.6
+02:32.187	ID:1	
+02:32.293	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 75
+02:32.293	ID:1	
+02:32.295	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:39, 75 Batt: 79 Mote: 0.7
+02:32.295	ID:1	
+02:32.404	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 76
+02:32.404	ID:1	
+02:32.406	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:39, 76 Batt: 79 Mote: 0.8
+02:32.406	ID:1	
+02:32.517	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 77
+02:32.517	ID:1	
+02:32.521	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:39, 77 Batt: 79 Mote: 0.9
+02:32.521	ID:1	
+02:32.627	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 78
+02:32.627	ID:1	
+02:32.631	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:39, 78 Batt: 79 Mote: 0.10
+02:32.631	ID:1	
+02:32.736	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 79
+02:32.736	ID:1	
+02:32.738	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:39, 79 Batt: 79 Mote: 0.11
+02:32.738	ID:1	
+02:33.862	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 80
+02:33.862	ID:1	
+02:33.866	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:40, 80 Batt: 79 Mote: 0.2
+02:33.866	ID:1	
+02:33.973	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 81
+02:33.973	ID:1	
+02:33.975	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:40, 81 Batt: 79 Mote: 0.3
+02:33.975	ID:1	
+02:34.067	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 82
+02:34.067	ID:1	
+02:34.069	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:40, 82 Batt: 79 Mote: 0.4
+02:34.069	ID:1	
+02:34.180	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 83
+02:34.180	ID:1	
+02:34.182	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:41, 83 Batt: 79 Mote: 0.5
+02:34.182	ID:1	
+02:34.291	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 84
+02:34.291	ID:1	
+02:34.295	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:41, 84 Batt: 79 Mote: 0.6
+02:34.295	ID:1	
+02:34.407	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 85
+02:34.407	ID:1	
+02:34.409	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:41, 85 Batt: 79 Mote: 0.7
+02:34.409	ID:1	
+02:34.513	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 86
+02:34.513	ID:1	
+02:34.515	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:41, 86 Batt: 79 Mote: 0.8
+02:34.515	ID:1	
+02:34.623	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 87
+02:34.623	ID:1	
+02:34.627	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:41, 87 Batt: 79 Mote: 0.9
+02:34.627	ID:1	
+02:34.735	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 88
+02:34.735	ID:1	
+02:34.739	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:41, 88 Batt: 79 Mote: 0.10
+02:34.739	ID:1	
+02:34.845	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 89
+02:34.845	ID:1	
+02:34.847	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:41, 89 Batt: 79 Mote: 0.11
+02:34.847	ID:1	
+02:35.964	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 90
+02:35.964	ID:1	
+02:35.968	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:42, 90 Batt: 79 Mote: 0.2
+02:35.968	ID:1	
+02:36.072	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 91
+02:36.072	ID:1	
+02:36.074	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:42, 91 Batt: 79 Mote: 0.3
+02:36.074	ID:1	
+02:36.171	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 92
+02:36.171	ID:1	
+02:36.173	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:43, 92 Batt: 79 Mote: 0.4
+02:36.173	ID:1	
+02:36.282	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 93
+02:36.282	ID:1	
+02:36.284	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:43, 93 Batt: 79 Mote: 0.5
+02:36.284	ID:1	
+02:36.394	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 94
+02:36.394	ID:1	
+02:36.398	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:43, 94 Batt: 79 Mote: 0.6
+02:36.398	ID:1	
+02:36.504	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 95
+02:36.504	ID:1	
+02:36.506	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:43, 95 Batt: 79 Mote: 0.7
+02:36.506	ID:1	
+02:36.599	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 96
+02:36.599	ID:1	
+02:36.601	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:43, 96 Batt: 79 Mote: 0.8
+02:36.601	ID:1	
+02:36.724	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 97
+02:36.724	ID:1	
+02:36.728	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:43, 97 Batt: 79 Mote: 0.9
+02:36.728	ID:1	
+02:36.836	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 98
+02:36.836	ID:1	
+02:36.840	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:43, 98 Batt: 79 Mote: 0.10
+02:36.840	ID:1	
+02:36.942	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 99
+02:36.942	ID:1	
+02:36.944	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:43, 99 Batt: 79 Mote: 0.11
+02:36.944	ID:1	
+02:38.051	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 100
+02:38.051	ID:1	
+02:38.055	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:44, 100 Batt: 79 Mote: 0.2
+02:38.055	ID:1	
+02:38.160	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 101
+02:38.160	ID:1	
+02:38.162	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:45, 101 Batt: 79 Mote: 0.3
+02:38.162	ID:1	
+02:38.270	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 102
+02:38.270	ID:1	
+02:38.272	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:45, 102 Batt: 79 Mote: 0.4
+02:38.272	ID:1	
+02:38.380	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 103
+02:38.380	ID:1	
+02:38.382	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:45, 103 Batt: 79 Mote: 0.5
+02:38.382	ID:1	
+02:38.489	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 104
+02:38.489	ID:1	
+02:38.493	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:45, 104 Batt: 79 Mote: 0.6
+02:38.493	ID:1	
+02:38.600	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 105
+02:38.600	ID:1	
+02:38.602	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:45, 105 Batt: 79 Mote: 0.7
+02:38.602	ID:1	
+02:38.642	ID:1	C-TX ReportPacket - 
+02:38.642	ID:1	 Batt: 206 Mote: 0.6
+02:38.642	ID:1	
+02:38.711	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 106
+02:38.711	ID:1	
+02:38.713	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:45, 106 Batt: 79 Mote: 0.8
+02:38.713	ID:1	
+02:38.716	ID:1	C-TX ReportPacket -  Batt: 206 Mote: 0.10
+02:38.716	ID:1	
+02:38.733	ID:1	C-TX ReportPacket - 	 Batt: 206 Mote: 0.2
+02:38.733	ID:1	
+02:38.822	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 107
+02:38.822	ID:1	
+02:38.826	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:45, 107 Batt: 79 Mote: 0.9
+02:38.826	ID:1	
+02:38.933	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 108
+02:38.933	ID:1	
+02:38.937	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:45, 108 Batt: 79 Mote: 0.10
+02:38.937	ID:1	
+02:39.045	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 109
+02:39.045	ID:1	
+02:39.047	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:45, 109 Batt: 79 Mote: 0.11
+02:39.047	ID:1	
+02:39.743	ID:1	C-TX ReportPacket -  Batt: 206 Mote: 0.9
+02:39.743	ID:1	
+02:40.150	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 110
+02:40.150	ID:1	
+02:40.154	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:47, 110 Batt: 79 Mote: 0.2
+02:40.154	ID:1	
+02:40.258	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 111
+02:40.258	ID:1	
+02:40.260	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:47, 111 Batt: 79 Mote: 0.3
+02:40.260	ID:1	
+02:40.371	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 112
+02:40.371	ID:1	
+02:40.373	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:47, 112 Batt: 79 Mote: 0.4
+02:40.373	ID:1	
+02:40.479	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 113
+02:40.479	ID:1	
+02:40.481	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:47, 113 Batt: 79 Mote: 0.5
+02:40.481	ID:1	
+02:40.593	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 114
+02:40.593	ID:1	
+02:40.597	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:47, 114 Batt: 79 Mote: 0.6
+02:40.597	ID:1	
+02:40.654	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+02:40.654	ID:1	
+02:40.704	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 115
+02:40.704	ID:1	
+02:40.706	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:47, 115 Batt: 79 Mote: 0.7
+02:40.706	ID:1	
+02:40.816	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 116
+02:40.816	ID:1	
+02:40.818	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:47, 116 Batt: 79 Mote: 0.8
+02:40.818	ID:1	
+02:40.925	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 117
+02:40.925	ID:1	
+02:40.929	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:47, 117 Batt: 79 Mote: 0.9
+02:40.929	ID:1	
+02:41.038	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 118
+02:41.038	ID:1	
+02:41.042	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:47, 118 Batt: 79 Mote: 0.10
+02:41.042	ID:1	
+02:41.148	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 119
+02:41.148	ID:1	
+02:41.150	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:48, 119 Batt: 79 Mote: 0.11
+02:41.150	ID:1	
+02:42.272	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 120
+02:42.272	ID:1	
+02:42.276	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:49, 120 Batt: 79 Mote: 0.2
+02:42.276	ID:1	
+02:42.384	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 121
+02:42.384	ID:1	
+02:42.386	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:49, 121 Batt: 79 Mote: 0.3
+02:42.386	ID:1	
+02:42.496	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 122
+02:42.496	ID:1	
+02:42.498	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:49, 122 Batt: 79 Mote: 0.4
+02:42.498	ID:1	
+02:42.601	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 123
+02:42.601	ID:1	
+02:42.603	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:49, 123 Batt: 79 Mote: 0.5
+02:42.603	ID:1	
+02:42.717	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 124
+02:42.717	ID:1	
+02:42.721	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:49, 124 Batt: 79 Mote: 0.6
+02:42.721	ID:1	
+02:42.828	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 125
+02:42.828	ID:1	
+02:42.830	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:49, 125 Batt: 79 Mote: 0.7
+02:42.830	ID:1	
+02:42.940	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 126
+02:42.940	ID:1	
+02:42.942	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:49, 126 Batt: 79 Mote: 0.8
+02:42.942	ID:1	
+02:43.051	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 127
+02:43.051	ID:1	
+02:43.055	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:49, 127 Batt: 79 Mote: 0.9
+02:43.055	ID:1	
+02:43.163	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 128
+02:43.163	ID:1	
+02:43.167	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:50, 128 Batt: 79 Mote: 0.10
+02:43.167	ID:1	
+02:43.273	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 129
+02:43.273	ID:1	
+02:43.275	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:50, 129 Batt: 79 Mote: 0.11
+02:43.275	ID:1	
+02:44.387	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 130
+02:44.387	ID:1	
+02:44.391	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:51, 130 Batt: 79 Mote: 0.2
+02:44.391	ID:1	
+02:44.501	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 131
+02:44.501	ID:1	
+02:44.503	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:51, 131 Batt: 79 Mote: 0.3
+02:44.503	ID:1	
+02:44.609	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 132
+02:44.609	ID:1	
+02:44.611	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:51, 132 Batt: 79 Mote: 0.4
+02:44.611	ID:1	
+02:44.721	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 133
+02:44.721	ID:1	
+02:44.723	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:51, 133 Batt: 79 Mote: 0.5
+02:44.723	ID:1	
+02:44.833	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 134
+02:44.833	ID:1	
+02:44.837	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:51, 134 Batt: 79 Mote: 0.6
+02:44.837	ID:1	
+02:44.943	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 135
+02:44.943	ID:1	
+02:44.945	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:51, 135 Batt: 79 Mote: 0.7
+02:44.945	ID:1	
+02:45.055	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 136
+02:45.055	ID:1	
+02:45.057	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:51, 136 Batt: 79 Mote: 0.8
+02:45.057	ID:1	
+02:45.166	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 137
+02:45.166	ID:1	
+02:45.170	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:52, 137 Batt: 79 Mote: 0.9
+02:45.170	ID:1	
+02:45.277	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 138
+02:45.277	ID:1	
+02:45.281	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:52, 138 Batt: 79 Mote: 0.10
+02:45.281	ID:1	
+02:45.388	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 139
+02:45.388	ID:1	
+02:45.390	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:52, 139 Batt: 79 Mote: 0.11
+02:45.390	ID:1	
+02:46.502	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 140
+02:46.502	ID:1	
+02:46.506	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:53, 140 Batt: 79 Mote: 0.2
+02:46.506	ID:1	
+02:46.612	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 141
+02:46.612	ID:1	
+02:46.614	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:53, 141 Batt: 79 Mote: 0.3
+02:46.614	ID:1	
+02:46.722	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 142
+02:46.722	ID:1	
+02:46.724	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:53, 142 Batt: 79 Mote: 0.4
+02:46.724	ID:1	
+02:46.832	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 143
+02:46.832	ID:1	
+02:46.834	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:53, 143 Batt: 79 Mote: 0.5
+02:46.834	ID:1	
+02:46.945	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 144
+02:46.945	ID:1	
+02:46.949	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:53, 144 Batt: 79 Mote: 0.6
+02:46.949	ID:1	
+02:47.053	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 145
+02:47.053	ID:1	
+02:47.055	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:53, 145 Batt: 79 Mote: 0.7
+02:47.055	ID:1	
+02:47.158	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 146
+02:47.158	ID:1	
+02:47.160	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:54, 146 Batt: 79 Mote: 0.8
+02:47.160	ID:1	
+02:47.269	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 147
+02:47.269	ID:1	
+02:47.273	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:54, 147 Batt: 79 Mote: 0.9
+02:47.273	ID:1	
+02:47.380	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 148
+02:47.380	ID:1	
+02:47.384	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:54, 148 Batt: 79 Mote: 0.10
+02:47.384	ID:1	
+02:47.490	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 149
+02:47.490	ID:1	
+02:47.492	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:54, 149 Batt: 79 Mote: 0.11
+02:47.492	ID:1	
+02:48.602	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 150
+02:48.602	ID:1	
+02:48.606	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:55, 150 Batt: 79 Mote: 0.2
+02:48.606	ID:1	
+02:48.715	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 151
+02:48.715	ID:1	
+02:48.717	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:55, 151 Batt: 79 Mote: 0.3
+02:48.717	ID:1	
+02:48.826	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 152
+02:48.826	ID:1	
+02:48.828	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:55, 152 Batt: 79 Mote: 0.4
+02:48.828	ID:1	
+02:48.937	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 153
+02:48.937	ID:1	
+02:48.939	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:55, 153 Batt: 79 Mote: 0.5
+02:48.939	ID:1	
+02:49.048	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 154
+02:49.048	ID:1	
+02:49.052	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:55, 154 Batt: 79 Mote: 0.6
+02:49.052	ID:1	
+02:49.159	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 155
+02:49.159	ID:1	
+02:49.161	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:56, 155 Batt: 79 Mote: 0.7
+02:49.161	ID:1	
+02:49.269	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 156
+02:49.269	ID:1	
+02:49.271	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:56, 156 Batt: 79 Mote: 0.8
+02:49.271	ID:1	
+02:49.381	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 157
+02:49.381	ID:1	
+02:49.385	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:56, 157 Batt: 79 Mote: 0.9
+02:49.385	ID:1	
+02:49.493	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 158
+02:49.493	ID:1	
+02:49.497	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:56, 158 Batt: 79 Mote: 0.10
+02:49.497	ID:1	
+02:49.603	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 159
+02:49.603	ID:1	
+02:49.605	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:56, 159 Batt: 79 Mote: 0.11
+02:49.605	ID:1	
+02:49.728	ID:1	C-TX ReportPacket -  Batt: 198 Mote: 0.8
+02:49.728	ID:1	
+02:49.734	ID:1	C-TX ReportPacket - 	 Batt: 198 Mote: 0.3
+02:49.734	ID:1	
+02:49.766	ID:1	C-TX ReportPacket - 
+02:49.766	ID:1	 Batt: 197 Mote: 0.4
+02:49.766	ID:1	
+02:49.776	ID:1	C-TX ReportPacket - 
+02:49.776	ID:1	 Batt: 198 Mote: 0.11
+02:49.776	ID:1	
+02:49.778	ID:1	C-TX ReportPacket - 
+02:49.778	ID:1	 Batt: 199 Mote: 0.5
+02:49.778	ID:1	
+02:49.792	ID:1	C-TX ReportPacket -  Batt: 199 Mote: 0.7
+02:49.792	ID:1	
+02:50.729	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 160
+02:50.729	ID:1	
+02:50.733	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:57, 160 Batt: 79 Mote: 0.2
+02:50.733	ID:1	
+02:50.841	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 161
+02:50.841	ID:1	
+02:50.843	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:57, 161 Batt: 79 Mote: 0.3
+02:50.843	ID:1	
+02:50.953	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 162
+02:50.953	ID:1	
+02:50.955	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:57, 162 Batt: 79 Mote: 0.4
+02:50.955	ID:1	
+02:51.064	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 163
+02:51.064	ID:1	
+02:51.066	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:57, 163 Batt: 79 Mote: 0.5
+02:51.066	ID:1	
+02:51.176	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 164
+02:51.176	ID:1	
+02:51.180	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:58, 164 Batt: 79 Mote: 0.6
+02:51.180	ID:1	
+02:51.287	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 165
+02:51.287	ID:1	
+02:51.289	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:58, 165 Batt: 79 Mote: 0.7
+02:51.289	ID:1	
+02:51.398	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 166
+02:51.398	ID:1	
+02:51.400	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:58, 166 Batt: 79 Mote: 0.8
+02:51.400	ID:1	
+02:51.510	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 167
+02:51.510	ID:1	
+02:51.514	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:58, 167 Batt: 79 Mote: 0.9
+02:51.514	ID:1	
+02:51.621	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 168
+02:51.621	ID:1	
+02:51.625	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:58, 168 Batt: 79 Mote: 0.10
+02:51.625	ID:1	
+02:51.734	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 169
+02:51.734	ID:1	
+02:51.736	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:58, 169 Batt: 79 Mote: 0.11
+02:51.736	ID:1	
+02:52.858	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 170
+02:52.858	ID:1	
+02:52.862	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:59, 170 Batt: 79 Mote: 0.2
+02:52.862	ID:1	
+02:52.969	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 171
+02:52.969	ID:1	
+02:52.971	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:59, 171 Batt: 79 Mote: 0.3
+02:52.971	ID:1	
+02:53.081	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 172
+02:53.081	ID:1	
+02:53.083	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:10:59, 172 Batt: 79 Mote: 0.4
+02:53.083	ID:1	
+02:53.191	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 173
+02:53.191	ID:1	
+02:53.193	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:00, 173 Batt: 79 Mote: 0.5
+02:53.193	ID:1	
+02:53.308	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 174
+02:53.308	ID:1	
+02:53.312	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:00, 174 Batt: 79 Mote: 0.6
+02:53.312	ID:1	
+02:53.416	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 175
+02:53.416	ID:1	
+02:53.418	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:00, 175 Batt: 79 Mote: 0.7
+02:53.418	ID:1	
+02:53.526	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 176
+02:53.526	ID:1	
+02:53.528	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:00, 176 Batt: 79 Mote: 0.8
+02:53.528	ID:1	
+02:53.638	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 177
+02:53.638	ID:1	
+02:53.642	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:00, 177 Batt: 79 Mote: 0.9
+02:53.642	ID:1	
+02:53.747	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 178
+02:53.747	ID:1	
+02:53.751	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:00, 178 Batt: 79 Mote: 0.10
+02:53.751	ID:1	
+02:53.860	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 179
+02:53.860	ID:1	
+02:53.862	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:00, 179 Batt: 79 Mote: 0.11
+02:53.862	ID:1	
+02:54.985	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 180
+02:54.985	ID:1	
+02:54.989	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:01, 180 Batt: 79 Mote: 0.2
+02:54.989	ID:1	
+02:55.091	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 181
+02:55.091	ID:1	
+02:55.093	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:02, 181 Batt: 79 Mote: 0.3
+02:55.093	ID:1	
+02:55.200	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 182
+02:55.200	ID:1	
+02:55.202	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:02, 182 Batt: 79 Mote: 0.4
+02:55.202	ID:1	
+02:55.308	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 183
+02:55.308	ID:1	
+02:55.310	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:02, 183 Batt: 79 Mote: 0.5
+02:55.310	ID:1	
+02:55.422	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 184
+02:55.422	ID:1	
+02:55.426	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:02, 184 Batt: 79 Mote: 0.6
+02:55.426	ID:1	
+02:55.528	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 185
+02:55.528	ID:1	
+02:55.530	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:02, 185 Batt: 79 Mote: 0.7
+02:55.530	ID:1	
+02:55.643	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 186
+02:55.643	ID:1	
+02:55.645	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:02, 186 Batt: 79 Mote: 0.8
+02:55.645	ID:1	
+02:55.752	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 187
+02:55.752	ID:1	
+02:55.756	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:02, 187 Batt: 79 Mote: 0.9
+02:55.756	ID:1	
+02:55.860	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 188
+02:55.860	ID:1	
+02:55.864	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:02, 188 Batt: 79 Mote: 0.10
+02:55.864	ID:1	
+02:55.973	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 189
+02:55.973	ID:1	
+02:55.975	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:02, 189 Batt: 79 Mote: 0.11
+02:55.975	ID:1	
+02:57.088	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 190
+02:57.088	ID:1	
+02:57.092	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:04, 190 Batt: 79 Mote: 0.2
+02:57.092	ID:1	
+02:57.199	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 191
+02:57.199	ID:1	
+02:57.201	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:04, 191 Batt: 79 Mote: 0.3
+02:57.201	ID:1	
+02:57.311	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 192
+02:57.311	ID:1	
+02:57.313	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:04, 192 Batt: 79 Mote: 0.4
+02:57.313	ID:1	
+02:57.422	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 193
+02:57.422	ID:1	
+02:57.424	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:04, 193 Batt: 79 Mote: 0.5
+02:57.424	ID:1	
+02:57.531	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 194
+02:57.531	ID:1	
+02:57.535	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:04, 194 Batt: 79 Mote: 0.6
+02:57.535	ID:1	
+02:57.642	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 195
+02:57.642	ID:1	
+02:57.644	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:04, 195 Batt: 79 Mote: 0.7
+02:57.644	ID:1	
+02:57.753	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 196
+02:57.753	ID:1	
+02:57.755	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:04, 196 Batt: 79 Mote: 0.8
+02:57.755	ID:1	
+02:57.863	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 197
+02:57.863	ID:1	
+02:57.867	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:04, 197 Batt: 79 Mote: 0.9
+02:57.867	ID:1	
+02:57.974	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 198
+02:57.974	ID:1	
+02:57.978	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:04, 198 Batt: 79 Mote: 0.10
+02:57.978	ID:1	
+02:58.080	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 199
+02:58.080	ID:1	
+02:58.082	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:05, 199 Batt: 79 Mote: 0.11
+02:58.082	ID:1	
+02:58.735	ID:1	C-TX ReportPacket - 
+02:58.735	ID:1	 Batt: 199 Mote: 0.6
+02:58.735	ID:1	
+02:58.799	ID:1	C-TX ReportPacket -  Batt: 198 Mote: 0.10
+02:58.799	ID:1	
+02:58.813	ID:1	C-TX ReportPacket - 	 Batt: 198 Mote: 0.2
+02:58.813	ID:1	
+02:59.194	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 200
+02:59.194	ID:1	
+02:59.198	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:06, 200 Batt: 79 Mote: 0.2
+02:59.198	ID:1	
+02:59.304	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 201
+02:59.304	ID:1	
+02:59.306	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:06, 201 Batt: 79 Mote: 0.3
+02:59.306	ID:1	
+02:59.416	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 202
+02:59.416	ID:1	
+02:59.418	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:06, 202 Batt: 79 Mote: 0.4
+02:59.418	ID:1	
+02:59.528	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 203
+02:59.528	ID:1	
+02:59.530	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:06, 203 Batt: 79 Mote: 0.5
+02:59.530	ID:1	
+02:59.638	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 204
+02:59.638	ID:1	
+02:59.642	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:06, 204 Batt: 79 Mote: 0.6
+02:59.642	ID:1	
+02:59.750	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 205
+02:59.750	ID:1	
+02:59.752	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:06, 205 Batt: 79 Mote: 0.7
+02:59.752	ID:1	
+02:59.831	ID:1	C-TX ReportPacket -  Batt: 198 Mote: 0.9
+02:59.831	ID:1	
+02:59.864	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 206
+02:59.864	ID:1	
+02:59.866	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:06, 206 Batt: 79 Mote: 0.8
+02:59.866	ID:1	
+02:59.972	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 207
+02:59.972	ID:1	
+02:59.976	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:06, 207 Batt: 79 Mote: 0.9
+02:59.976	ID:1	
+03:00.081	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 208
+03:00.081	ID:1	
+03:00.085	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:07, 208 Batt: 79 Mote: 0.10
+03:00.085	ID:1	
+03:00.192	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 209
+03:00.192	ID:1	
+03:00.194	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:07, 209 Batt: 79 Mote: 0.11
+03:00.194	ID:1	
+03:00.727	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+03:00.727	ID:1	
+03:01.305	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 210
+03:01.305	ID:1	
+03:01.309	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:08, 210 Batt: 79 Mote: 0.2
+03:01.309	ID:1	
+03:01.417	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 211
+03:01.417	ID:1	
+03:01.419	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:08, 211 Batt: 79 Mote: 0.3
+03:01.419	ID:1	
+03:01.529	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 212
+03:01.529	ID:1	
+03:01.531	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:08, 212 Batt: 79 Mote: 0.4
+03:01.531	ID:1	
+03:01.639	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 213
+03:01.639	ID:1	
+03:01.641	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:08, 213 Batt: 79 Mote: 0.5
+03:01.641	ID:1	
+03:01.751	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 214
+03:01.751	ID:1	
+03:01.755	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:08, 214 Batt: 79 Mote: 0.6
+03:01.755	ID:1	
+03:01.863	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 215
+03:01.863	ID:1	
+03:01.865	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:08, 215 Batt: 79 Mote: 0.7
+03:01.865	ID:1	
+03:01.973	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 216
+03:01.973	ID:1	
+03:01.975	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:08, 216 Batt: 79 Mote: 0.8
+03:01.975	ID:1	
+03:02.083	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 217
+03:02.083	ID:1	
+03:02.087	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:09, 217 Batt: 79 Mote: 0.9
+03:02.087	ID:1	
+03:02.195	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 218
+03:02.195	ID:1	
+03:02.199	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:09, 218 Batt: 79 Mote: 0.10
+03:02.199	ID:1	
+03:02.308	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 219
+03:02.308	ID:1	
+03:02.310	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:09, 219 Batt: 79 Mote: 0.11
+03:02.310	ID:1	
+03:03.419	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 220
+03:03.419	ID:1	
+03:03.423	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:10, 220 Batt: 79 Mote: 0.2
+03:03.423	ID:1	
+03:03.530	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 221
+03:03.530	ID:1	
+03:03.532	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:10, 221 Batt: 79 Mote: 0.3
+03:03.532	ID:1	
+03:03.642	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 222
+03:03.642	ID:1	
+03:03.644	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:10, 222 Batt: 79 Mote: 0.4
+03:03.644	ID:1	
+03:03.753	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 223
+03:03.753	ID:1	
+03:03.755	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:10, 223 Batt: 79 Mote: 0.5
+03:03.755	ID:1	
+03:03.864	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 224
+03:03.864	ID:1	
+03:03.868	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:10, 224 Batt: 79 Mote: 0.6
+03:03.868	ID:1	
+03:03.976	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 225
+03:03.976	ID:1	
+03:03.978	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:10, 225 Batt: 79 Mote: 0.7
+03:03.978	ID:1	
+03:04.085	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 226
+03:04.085	ID:1	
+03:04.087	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:11, 226 Batt: 79 Mote: 0.8
+03:04.087	ID:1	
+03:04.195	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 227
+03:04.195	ID:1	
+03:04.199	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:11, 227 Batt: 79 Mote: 0.9
+03:04.199	ID:1	
+03:04.306	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 228
+03:04.306	ID:1	
+03:04.310	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:11, 228 Batt: 79 Mote: 0.10
+03:04.310	ID:1	
+03:04.417	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 229
+03:04.417	ID:1	
+03:04.419	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:11, 229 Batt: 79 Mote: 0.11
+03:04.419	ID:1	
+03:05.540	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 230
+03:05.540	ID:1	
+03:05.544	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:12, 230 Batt: 79 Mote: 0.2
+03:05.544	ID:1	
+03:05.651	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 231
+03:05.651	ID:1	
+03:05.653	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:12, 231 Batt: 79 Mote: 0.3
+03:05.653	ID:1	
+03:05.761	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 232
+03:05.761	ID:1	
+03:05.763	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:12, 232 Batt: 79 Mote: 0.4
+03:05.763	ID:1	
+03:05.873	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 233
+03:05.873	ID:1	
+03:05.875	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:12, 233 Batt: 79 Mote: 0.5
+03:05.875	ID:1	
+03:05.984	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 234
+03:05.984	ID:1	
+03:05.988	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:12, 234 Batt: 79 Mote: 0.6
+03:05.988	ID:1	
+03:06.095	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 235
+03:06.095	ID:1	
+03:06.097	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:13, 235 Batt: 79 Mote: 0.7
+03:06.097	ID:1	
+03:06.206	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 236
+03:06.206	ID:1	
+03:06.208	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:13, 236 Batt: 79 Mote: 0.8
+03:06.208	ID:1	
+03:06.316	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 237
+03:06.316	ID:1	
+03:06.320	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:13, 237 Batt: 79 Mote: 0.9
+03:06.320	ID:1	
+03:06.427	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 238
+03:06.427	ID:1	
+03:06.431	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:13, 238 Batt: 79 Mote: 0.10
+03:06.431	ID:1	
+03:06.539	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 239
+03:06.539	ID:1	
+03:06.541	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:13, 239 Batt: 79 Mote: 0.11
+03:06.541	ID:1	
+03:07.664	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 240
+03:07.664	ID:1	
+03:07.668	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:14, 240 Batt: 79 Mote: 0.2
+03:07.668	ID:1	
+03:07.774	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 241
+03:07.774	ID:1	
+03:07.776	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:14, 241 Batt: 79 Mote: 0.3
+03:07.776	ID:1	
+03:07.885	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 242
+03:07.885	ID:1	
+03:07.887	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:14, 242 Batt: 79 Mote: 0.4
+03:07.887	ID:1	
+03:07.996	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 243
+03:07.996	ID:1	
+03:07.998	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:14, 243 Batt: 79 Mote: 0.5
+03:07.998	ID:1	
+03:08.108	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 244
+03:08.108	ID:1	
+03:08.112	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:15, 244 Batt: 79 Mote: 0.6
+03:08.112	ID:1	
+03:08.220	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 245
+03:08.220	ID:1	
+03:08.222	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:15, 245 Batt: 79 Mote: 0.7
+03:08.222	ID:1	
+03:08.330	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 246
+03:08.330	ID:1	
+03:08.332	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:15, 246 Batt: 79 Mote: 0.8
+03:08.332	ID:1	
+03:08.440	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 247
+03:08.440	ID:1	
+03:08.444	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:15, 247 Batt: 79 Mote: 0.9
+03:08.444	ID:1	
+03:08.547	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 248
+03:08.547	ID:1	
+03:08.551	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:15, 248 Batt: 79 Mote: 0.10
+03:08.551	ID:1	
+03:08.657	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 249
+03:08.657	ID:1	
+03:08.659	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:15, 249 Batt: 79 Mote: 0.11
+03:08.659	ID:1	
+03:09.769	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 250
+03:09.769	ID:1	
+03:09.773	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:16, 250 Batt: 79 Mote: 0.2
+03:09.773	ID:1	
+03:09.821	ID:1	C-TX ReportPacket -  Batt: 191 Mote: 0.8
+03:09.821	ID:1	
+03:09.823	ID:1	C-TX ReportPacket - 	 Batt: 191 Mote: 0.3
+03:09.823	ID:1	
+03:09.864	ID:1	C-TX ReportPacket - 
+03:09.864	ID:1	 Batt: 191 Mote: 0.11
+03:09.864	ID:1	
+03:09.869	ID:1	C-TX ReportPacket - 
+03:09.869	ID:1	 Batt: 191 Mote: 0.5
+03:09.869	ID:1	
+03:09.874	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 251
+03:09.874	ID:1	
+03:09.882	ID:1	C-TX ReportPacket -  Batt: 191 Mote: 0.7
+03:09.882	ID:1	
+03:09.992	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 252
+03:09.992	ID:1	
+03:09.994	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:16, 252 Batt: 79 Mote: 0.4
+03:09.994	ID:1	
+03:10.103	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 253
+03:10.103	ID:1	
+03:10.105	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:17, 253 Batt: 79 Mote: 0.5
+03:10.105	ID:1	
+03:10.214	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 254
+03:10.214	ID:1	
+03:10.218	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:17, 254 Batt: 79 Mote: 0.6
+03:10.218	ID:1	
+03:10.325	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 255
+03:10.325	ID:1	
+03:10.327	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:17, 255 Batt: 79 Mote: 0.7
+03:10.327	ID:1	
+03:10.437	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 256
+03:10.437	ID:1	
+03:10.439	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:17, 256 Batt: 79 Mote: 0.8
+03:10.439	ID:1	
+03:10.546	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 257
+03:10.546	ID:1	
+03:10.550	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:17, 257 Batt: 79 Mote: 0.9
+03:10.550	ID:1	
+03:10.658	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 258
+03:10.658	ID:1	
+03:10.662	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:17, 258 Batt: 79 Mote: 0.10
+03:10.662	ID:1	
+03:10.768	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 259
+03:10.768	ID:1	
+03:10.770	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:17, 259 Batt: 79 Mote: 0.11
+03:10.770	ID:1	
+03:11.882	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 260
+03:11.882	ID:1	
+03:11.886	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:18, 260 Batt: 79 Mote: 0.2
+03:11.886	ID:1	
+03:11.995	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 261
+03:11.995	ID:1	
+03:11.997	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:18, 261 Batt: 79 Mote: 0.3
+03:11.997	ID:1	
+03:12.108	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 262
+03:12.108	ID:1	
+03:12.110	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:19, 262 Batt: 79 Mote: 0.4
+03:12.110	ID:1	
+03:12.217	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 263
+03:12.217	ID:1	
+03:12.219	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:19, 263 Batt: 79 Mote: 0.5
+03:12.219	ID:1	
+03:12.328	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 264
+03:12.328	ID:1	
+03:12.332	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:19, 264 Batt: 79 Mote: 0.6
+03:12.332	ID:1	
+03:12.438	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 265
+03:12.438	ID:1	
+03:12.440	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:19, 265 Batt: 79 Mote: 0.7
+03:12.440	ID:1	
+03:12.547	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 266
+03:12.547	ID:1	
+03:12.549	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:19, 266 Batt: 79 Mote: 0.8
+03:12.549	ID:1	
+03:12.659	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 267
+03:12.659	ID:1	
+03:12.663	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:19, 267 Batt: 79 Mote: 0.9
+03:12.663	ID:1	
+03:12.769	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 268
+03:12.769	ID:1	
+03:12.773	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:19, 268 Batt: 79 Mote: 0.10
+03:12.773	ID:1	
+03:12.882	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 269
+03:12.882	ID:1	
+03:12.884	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:19, 269 Batt: 79 Mote: 0.11
+03:12.884	ID:1	
+03:14.008	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 270
+03:14.008	ID:1	
+03:14.012	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:20, 270 Batt: 79 Mote: 0.2
+03:14.012	ID:1	
+03:14.118	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 271
+03:14.118	ID:1	
+03:14.120	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:21, 271 Batt: 79 Mote: 0.3
+03:14.120	ID:1	
+03:14.229	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 272
+03:14.229	ID:1	
+03:14.231	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:21, 272 Batt: 79 Mote: 0.4
+03:14.231	ID:1	
+03:14.341	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 273
+03:14.341	ID:1	
+03:14.343	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:21, 273 Batt: 79 Mote: 0.5
+03:14.343	ID:1	
+03:14.453	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 274
+03:14.453	ID:1	
+03:14.457	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:21, 274 Batt: 79 Mote: 0.6
+03:14.457	ID:1	
+03:14.563	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 275
+03:14.563	ID:1	
+03:14.565	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:21, 275 Batt: 79 Mote: 0.7
+03:14.565	ID:1	
+03:14.674	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 276
+03:14.674	ID:1	
+03:14.676	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:21, 276 Batt: 79 Mote: 0.8
+03:14.676	ID:1	
+03:14.785	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 277
+03:14.785	ID:1	
+03:14.789	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:21, 277 Batt: 79 Mote: 0.9
+03:14.789	ID:1	
+03:14.896	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 278
+03:14.896	ID:1	
+03:14.900	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:21, 278 Batt: 79 Mote: 0.10
+03:14.900	ID:1	
+03:15.008	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 279
+03:15.008	ID:1	
+03:15.010	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:21, 279 Batt: 79 Mote: 0.11
+03:15.010	ID:1	
+03:16.127	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 280
+03:16.127	ID:1	
+03:16.131	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:23, 280 Batt: 79 Mote: 0.2
+03:16.131	ID:1	
+03:16.237	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 281
+03:16.237	ID:1	
+03:16.239	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:23, 281 Batt: 79 Mote: 0.3
+03:16.239	ID:1	
+03:16.349	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 282
+03:16.349	ID:1	
+03:16.351	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:23, 282 Batt: 79 Mote: 0.4
+03:16.351	ID:1	
+03:16.460	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 283
+03:16.460	ID:1	
+03:16.462	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:23, 283 Batt: 79 Mote: 0.5
+03:16.462	ID:1	
+03:16.570	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 284
+03:16.570	ID:1	
+03:16.574	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:23, 284 Batt: 79 Mote: 0.6
+03:16.574	ID:1	
+03:16.680	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 285
+03:16.680	ID:1	
+03:16.682	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:23, 285 Batt: 79 Mote: 0.7
+03:16.682	ID:1	
+03:16.791	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 286
+03:16.791	ID:1	
+03:16.793	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:23, 286 Batt: 79 Mote: 0.8
+03:16.793	ID:1	
+03:16.899	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 287
+03:16.899	ID:1	
+03:16.903	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:23, 287 Batt: 79 Mote: 0.9
+03:16.903	ID:1	
+03:17.009	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 288
+03:17.009	ID:1	
+03:17.013	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:23, 288 Batt: 79 Mote: 0.10
+03:17.013	ID:1	
+03:17.119	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 289
+03:17.119	ID:1	
+03:17.121	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:24, 289 Batt: 79 Mote: 0.11
+03:17.121	ID:1	
+03:18.227	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 290
+03:18.227	ID:1	
+03:18.231	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:25, 290 Batt: 79 Mote: 0.2
+03:18.231	ID:1	
+03:18.337	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 291
+03:18.337	ID:1	
+03:18.339	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:25, 291 Batt: 79 Mote: 0.3
+03:18.339	ID:1	
+03:18.447	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 292
+03:18.447	ID:1	
+03:18.449	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:25, 292 Batt: 79 Mote: 0.4
+03:18.449	ID:1	
+03:18.558	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 293
+03:18.558	ID:1	
+03:18.560	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:25, 293 Batt: 79 Mote: 0.5
+03:18.560	ID:1	
+03:18.669	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 294
+03:18.669	ID:1	
+03:18.673	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:25, 294 Batt: 79 Mote: 0.6
+03:18.673	ID:1	
+03:18.781	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 295
+03:18.781	ID:1	
+03:18.783	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:25, 295 Batt: 79 Mote: 0.7
+03:18.783	ID:1	
+03:18.836	ID:1	C-TX ReportPacket - 
+03:18.836	ID:1	 Batt: 191 Mote: 0.6
+03:18.836	ID:1	
+03:18.887	ID:1	C-TX ReportPacket - 	 Batt: 191 Mote: 0.2
+03:18.887	ID:1	
+03:18.892	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 296
+03:18.892	ID:1	
+03:18.894	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:25, 296 Batt: 79 Mote: 0.8
+03:18.894	ID:1	
+03:18.898	ID:1	C-TX ReportPacket -  Batt: 191 Mote: 0.10
+03:18.898	ID:1	
+03:19.004	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 297
+03:19.004	ID:1	
+03:19.008	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:25, 297 Batt: 79 Mote: 0.9
+03:19.008	ID:1	
+03:19.114	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 298
+03:19.114	ID:1	
+03:19.118	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:26, 298 Batt: 79 Mote: 0.10
+03:19.118	ID:1	
+03:19.225	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 299
+03:19.225	ID:1	
+03:19.227	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:26, 299 Batt: 79 Mote: 0.11
+03:19.227	ID:1	
+03:19.904	ID:1	C-TX ReportPacket -  Batt: 191 Mote: 0.9
+03:19.904	ID:1	
+03:20.343	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 300
+03:20.343	ID:1	
+03:20.347	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:27, 300 Batt: 79 Mote: 0.2
+03:20.347	ID:1	
+03:20.454	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 301
+03:20.454	ID:1	
+03:20.456	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:27, 301 Batt: 79 Mote: 0.3
+03:20.456	ID:1	
+03:20.565	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 302
+03:20.565	ID:1	
+03:20.567	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:27, 302 Batt: 79 Mote: 0.4
+03:20.567	ID:1	
+03:20.674	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 303
+03:20.674	ID:1	
+03:20.676	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:27, 303 Batt: 79 Mote: 0.5
+03:20.676	ID:1	
+03:20.785	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 304
+03:20.785	ID:1	
+03:20.789	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:27, 304 Batt: 79 Mote: 0.6
+03:20.789	ID:1	
+03:20.815	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+03:20.815	ID:1	
+03:20.898	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 305
+03:20.898	ID:1	
+03:20.900	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:27, 305 Batt: 79 Mote: 0.7
+03:20.900	ID:1	
+03:21.010	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 306
+03:21.010	ID:1	
+03:21.012	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:27, 306 Batt: 79 Mote: 0.8
+03:21.012	ID:1	
+03:21.060	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 307
+03:21.060	ID:1	
+03:21.064	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:28, 307 Batt: 79 Mote: 0.9
+03:21.064	ID:1	
+03:21.163	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 308
+03:21.163	ID:1	
+03:21.167	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:28, 308 Batt: 79 Mote: 0.10
+03:21.167	ID:1	
+03:21.274	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 309
+03:21.274	ID:1	
+03:21.276	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:28, 309 Batt: 79 Mote: 0.11
+03:21.276	ID:1	
+03:23.081	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 310
+03:23.081	ID:1	
+03:23.085	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:30, 310 Batt: 79 Mote: 0.2
+03:23.085	ID:1	
+03:23.085	ID:1	C-RX NetworkPacket - Temperatura, alert, 0, 2000001.0, 1999999.0, 311
+03:23.085	ID:1	
+03:23.089	ID:1	C-TX DataPacket - Notificacao, Alerta Cadastrado com Sucesso!, 311 Batt: 111 Mote: 0.2
+03:23.089	ID:1	
+03:23.173	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 312
+03:23.173	ID:1	
+03:23.175	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:30, 312 Batt: 79 Mote: 0.3
+03:23.175	ID:1	
+03:23.176	ID:1	C-RX NetworkPacket - Temperatura, alert, 0, 2000001.0, 1999999.0, 313
+03:23.176	ID:1	
+03:23.178	ID:1	C-TX DataPacket - Notificacao, Alerta Cadastrado com Sucesso!, 313 Batt: 111 Mote: 0.3
+03:23.178	ID:1	
+03:23.284	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 314
+03:23.284	ID:1	
+03:23.286	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:30, 314 Batt: 79 Mote: 0.4
+03:23.286	ID:1	
+03:23.287	ID:1	C-RX NetworkPacket - Temperatura, alert, 0, 2000001.0, 1999999.0, 315
+03:23.287	ID:1	
+03:23.289	ID:1	C-TX DataPacket - Notificacao, Alerta Cadastrado com Sucesso!, 315 Batt: 111 Mote: 0.4
+03:23.289	ID:1	
+03:23.396	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 316
+03:23.396	ID:1	
+03:23.398	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:30, 316 Batt: 79 Mote: 0.5
+03:23.398	ID:1	
+03:23.405	ID:1	C-RX NetworkPacket - Temperatura, alert, 0, 2000001.0, 1999999.0, 317
+03:23.405	ID:1	
+03:23.407	ID:1	C-TX DataPacket - Notificacao, Alerta Cadastrado com Sucesso!, 317 Batt: 111 Mote: 0.5
+03:23.407	ID:1	
+03:23.503	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 318
+03:23.503	ID:1	
+03:23.507	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:30, 318 Batt: 79 Mote: 0.6
+03:23.507	ID:1	
+03:23.508	ID:1	C-RX NetworkPacket - Temperatura, alert, 0, 2000001.0, 1999999.0, 319
+03:23.508	ID:1	
+03:23.512	ID:1	C-TX DataPacket - Notificacao, Alerta Cadastrado com Sucesso!, 319 Batt: 111 Mote: 0.6
+03:23.512	ID:1	
+03:23.618	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 320
+03:23.618	ID:1	
+03:23.620	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:30, 320 Batt: 79 Mote: 0.7
+03:23.620	ID:1	
+03:23.625	ID:1	C-RX NetworkPacket - Temperatura, alert, 0, 2000001.0, 1999999.0, 321
+03:23.625	ID:1	
+03:23.627	ID:1	C-TX DataPacket - Notificacao, Alerta Cadastrado com Sucesso!, 321 Batt: 111 Mote: 0.7
+03:23.627	ID:1	
+03:23.725	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 322
+03:23.725	ID:1	
+03:23.727	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:30, 322 Batt: 79 Mote: 0.8
+03:23.727	ID:1	
+03:23.729	ID:1	C-RX NetworkPacket - Temperatura, alert, 0, 2000001.0, 1999999.0, 323
+03:23.729	ID:1	
+03:23.731	ID:1	C-TX DataPacket - Notificacao, Alerta Cadastrado com Sucesso!, 323 Batt: 111 Mote: 0.8
+03:23.731	ID:1	
+03:23.834	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 324
+03:23.834	ID:1	
+03:23.838	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:30, 324 Batt: 79 Mote: 0.9
+03:23.838	ID:1	
+03:23.839	ID:1	C-RX NetworkPacket - Temperatura, alert, 0, 2000001.0, 1999999.0, 325
+03:23.839	ID:1	
+03:23.843	ID:1	C-TX DataPacket - Notificacao, Alerta Cadastrado com Sucesso!, 325 Batt: 111 Mote: 0.9
+03:23.843	ID:1	
+03:23.947	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 326
+03:23.947	ID:1	
+03:23.951	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:30, 326 Batt: 79 Mote: 0.10
+03:23.951	ID:1	
+03:23.953	ID:1	C-RX NetworkPacket - Temperatura, alert, 0, 2000001.0, 1999999.0, 327
+03:23.953	ID:1	
+03:23.957	ID:1	C-TX DataPacket - Notificacao, Alerta Cadastrado com Sucesso!, 327 Batt: 111 Mote: 0.10
+03:23.957	ID:1	
+03:24.058	ID:1	C-RX NetworkPacket - Qualidade do Ar, polling, 0, 0, 0, 328
+03:24.058	ID:1	
+03:24.060	ID:1	C-TX DataPacket - POLLING, 1;2000000.0;2000000.0;2000000.0;2000000.0;01:11:31, 328 Batt: 79 Mote: 0.11
+03:24.060	ID:1	
+03:24.062	ID:1	C-RX NetworkPacket - Temperatura, alert, 0, 2000001.0, 1999999.0, 329
+03:24.062	ID:1	
+03:24.064	ID:1	C-TX DataPacket - Notificacao, Alerta Cadastrado com Sucesso!, 329 Batt: 111 Mote: 0.11
+03:24.064	ID:1	
+03:29.915	ID:1	C-TX ReportPacket - 	 Batt: 184 Mote: 0.3
+03:29.915	ID:1	
+03:29.919	ID:1	C-TX ReportPacket -  Batt: 184 Mote: 0.8
+03:29.919	ID:1	
+03:29.949	ID:1	C-TX ReportPacket - 
+03:29.949	ID:1	 Batt: 182 Mote: 0.4
+03:29.949	ID:1	
+03:29.952	ID:1	C-TX ReportPacket - 
+03:29.952	ID:1	 Batt: 184 Mote: 0.5
+03:29.952	ID:1	
+03:29.961	ID:1	C-TX ReportPacket -  Batt: 184 Mote: 0.7
+03:29.961	ID:1	
+03:29.967	ID:1	C-TX ReportPacket - 
+03:29.967	ID:1	 Batt: 184 Mote: 0.11
+03:29.967	ID:1	
+03:38.950	ID:1	C-TX ReportPacket - 
+03:38.950	ID:1	 Batt: 185 Mote: 0.6
+03:38.950	ID:1	
+03:38.962	ID:1	C-TX ReportPacket - 	 Batt: 184 Mote: 0.2
+03:38.962	ID:1	
+03:38.988	ID:1	C-TX ReportPacket -  Batt: 184 Mote: 0.10
+03:38.988	ID:1	
+03:39.998	ID:1	C-TX ReportPacket -  Batt: 184 Mote: 0.9
+03:39.998	ID:1	
+03:40.918	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+03:40.918	ID:1	
+03:50.001	ID:1	C-TX ReportPacket - 	 Batt: 177 Mote: 0.3
+03:50.001	ID:1	
+03:50.011	ID:1	C-TX ReportPacket -  Batt: 177 Mote: 0.8
+03:50.011	ID:1	
+03:50.044	ID:1	C-TX ReportPacket - 
+03:50.044	ID:1	 Batt: 177 Mote: 0.5
+03:50.044	ID:1	
+03:50.093	ID:1	C-TX ReportPacket - 
+03:50.093	ID:1	 Batt: 177 Mote: 0.11
+03:50.093	ID:1	
+03:59.032	ID:1	C-TX ReportPacket - 
+03:59.032	ID:1	 Batt: 178 Mote: 0.6
+03:59.032	ID:1	
+03:59.056	ID:1	C-TX ReportPacket - 	 Batt: 177 Mote: 0.2
+03:59.056	ID:1	
+03:59.073	ID:1	C-TX ReportPacket -  Batt: 178 Mote: 0.10
+03:59.073	ID:1	
+04:00.083	ID:1	C-TX ReportPacket -  Batt: 178 Mote: 0.9
+04:00.083	ID:1	
+04:00.990	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+04:00.990	ID:1	
+04:10.093	ID:1	C-TX ReportPacket - 	 Batt: 170 Mote: 0.3
+04:10.093	ID:1	
+04:10.127	ID:1	C-TX ReportPacket -  Batt: 171 Mote: 0.8
+04:10.127	ID:1	
+04:10.134	ID:1	C-TX ReportPacket - 
+04:10.134	ID:1	 Batt: 171 Mote: 0.5
+04:10.134	ID:1	
+04:10.187	ID:1	C-TX ReportPacket - 
+04:10.187	ID:1	 Batt: 171 Mote: 0.11
+04:10.187	ID:1	
+04:19.120	ID:1	C-TX ReportPacket - 
+04:19.120	ID:1	 Batt: 171 Mote: 0.6
+04:19.120	ID:1	
+04:19.165	ID:1	C-TX ReportPacket -  Batt: 171 Mote: 0.10
+04:19.165	ID:1	
+04:19.172	ID:1	C-TX ReportPacket - 	 Batt: 171 Mote: 0.2
+04:19.172	ID:1	
+04:20.170	ID:1	C-TX ReportPacket -  Batt: 171 Mote: 0.9
+04:20.170	ID:1	
+04:21.074	ID:1	C-TX ReportPacket -  Batt: 255 Mote: 0.1
+04:21.074	ID:1	
+04:22.941	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 330
+04:22.941	ID:1	
+04:22.945	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 330 Batt: 111 Mote: 0.2
+04:22.945	ID:1	
+04:23.046	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 331
+04:23.046	ID:1	
+04:23.048	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 331 Batt: 111 Mote: 0.3
+04:23.048	ID:1	
+04:23.157	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 332
+04:23.157	ID:1	
+04:23.159	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 332 Batt: 111 Mote: 0.4
+04:23.159	ID:1	
+04:23.269	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 333
+04:23.269	ID:1	
+04:23.271	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 333 Batt: 111 Mote: 0.5
+04:23.271	ID:1	
+04:23.382	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 334
+04:23.382	ID:1	
+04:23.386	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 334 Batt: 111 Mote: 0.6
+04:23.386	ID:1	
+04:23.491	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 335
+04:23.491	ID:1	
+04:23.493	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 335 Batt: 111 Mote: 0.7
+04:23.493	ID:1	
+04:23.602	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 336
+04:23.602	ID:1	
+04:23.604	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 336 Batt: 111 Mote: 0.8
+04:23.604	ID:1	
+04:23.713	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 337
+04:23.713	ID:1	
+04:23.717	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 337 Batt: 111 Mote: 0.9
+04:23.717	ID:1	
+04:23.821	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 338
+04:23.821	ID:1	
+04:23.825	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 338 Batt: 111 Mote: 0.10
+04:23.825	ID:1	
+04:23.932	ID:1	C-RX NetworkPacket -  , deleteEvent, 0, 0, 0, 339
+04:23.932	ID:1	
+04:23.934	ID:1	C-TX DataPacket - Notificacao, Evento Deletado!, 339 Batt: 111 Mote: 0.11
+04:23.934	ID:1	
